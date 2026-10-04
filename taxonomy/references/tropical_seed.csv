@@ -1,0 +1,23 @@
+query_name,source_id,evidence_type
+Buruli ulcer,WHO_NTD,official_ntd
+Chagas disease,WHO_NTD,official_ntd
+chikungunya,WHO_NTD,official_ntd
+dengue,WHO_NTD,official_ntd
+dracunculiasis,WHO_NTD,official_ntd
+echinococcosis,WHO_NTD,official_ntd
+human African trypanosomiasis,WHO_NTD,official_ntd
+leishmaniasis,WHO_NTD,official_ntd
+leprosy,WHO_NTD,official_ntd
+lymphatic filariasis,WHO_NTD,official_ntd
+mycetoma,WHO_NTD,official_ntd
+chromoblastomycosis,WHO_NTD,official_ntd
+noma,WHO_NTD,official_ntd
+onchocerciasis,WHO_NTD,official_ntd
+rabies,WHO_NTD,official_ntd
+scabies,WHO_NTD,official_ntd
+schistosomiasis,WHO_NTD,official_ntd
+taeniasis,WHO_NTD,official_ntd
+cysticercosis,WHO_NTD,official_ntd
+trachoma,WHO_NTD,official_ntd
+yaws,WHO_NTD,official_ntd
+malaria,WHO_MALARIA,explicit_tropical

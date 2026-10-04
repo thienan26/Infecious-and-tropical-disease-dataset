@@ -1,0 +1,5 @@
+﻿query_name,source_id,evidence_type,candidate_ids,reason
+Buruli ulcer,WHO_NTD,official_ntd,[],NO_MATCH
+dengue,WHO_NTD,official_ntd,[],NO_MATCH
+human African trypanosomiasis,WHO_NTD,official_ntd,[],NO_MATCH
+mycetoma,WHO_NTD,official_ntd,[],NO_MATCH

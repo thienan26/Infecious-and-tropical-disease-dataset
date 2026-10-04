@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.tmp/
+.env
+
+data/raw/
+data/normalized/
+
+taxonomy/*.obo
+
+*.part

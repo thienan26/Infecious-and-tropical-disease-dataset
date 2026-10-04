@@ -1,0 +1,6 @@
+pandas>=2.2
+pyarrow>=17
+requests>=2.32
+PyYAML>=6.0
+pyahocorasick>=2.1
+tqdm>=4.66

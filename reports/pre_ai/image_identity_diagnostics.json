@@ -1,9 +1,12 @@
 {
-  "raw_image_metadata_rows": 142125,
-  "candidate_image_metadata_rows": 29055,
-  "rows_with_duplicate_image_id": 5012,
-  "rows_in_duplicate_case_file_groups": 0,
-  "unique_candidate_case_file_images": 29055,
-  "physical_identity_definition": "case_id + file",
-  "image_id_treated_as_globally_unique": false
+  "physical_identity": "case_id + file",
+  "image_id_role": "provenance_only_not_unique_primary_key",
+  "source_image_id_role": "provenance_only_not_unique_primary_key",
+  "normalized_image_rows": 142125,
+  "candidate_image_rows": 29055,
+  "physical_case_file_rows_checked": 29055,
+  "decodable_physical_images": 29054,
+  "physical_image_failures": 1,
+  "rows_with_duplicated_image_id": 5012,
+  "rows_in_duplicate_case_id_file_groups": 0
 }

@@ -1,0 +1,317 @@
+﻿concept_id,disease,candidate_case_count,threshold,keep_for_ai_review
+DOID:399,tuberculosis,1562,50,True
+DOID:0080600,COVID-19,1084,50,True
+DOID:2043,hepatitis B,939,50,True
+DOID:2945,severe acute respiratory syndrome,626,50,True
+DOID:1883,hepatitis C,540,50,True
+DOID:4166,syphilis,480,50,True
+DOID:8566,herpes simplex,372,50,True
+DOID:1019,osteomyelitis,330,50,True
+DOID:0080784,urinary tract infection,306,50,True
+DOID:8469,influenza,285,50,True
+DOID:934,viral infectious disease,284,50,True
+DOID:2957,pulmonary tuberculosis,258,50,True
+DOID:635,acquired immunodeficiency syndrome,247,50,True
+DOID:8659,chickenpox,235,50,True
+DOID:0060000,infective endocarditis,184,50,True
+DOID:1884,viral hepatitis,163,50,True
+DOID:9965,toxoplasmosis,159,50,True
+DOID:12549,hepatitis A,148,50,True
+DOID:8536,herpes zoster,145,50,True
+DOID:13564,aspergillosis,144,50,True
+DOID:11263,chlamydia,143,50,True
+DOID:0050152,aspiration pneumonia,141,50,True
+DOID:824,periodontitis,139,50,True
+DOID:12365,malaria,126,50,True
+DOID:8485,mucormycosis,125,50,True
+DOID:8781,rubella,125,50,True
+DOID:526,human immunodeficiency virus infectious disease,121,50,True
+DOID:1508,candidiasis,116,50,True
+DOID:1496,echinococcosis,113,50,True
+DOID:11338,tetanus,112,50,True
+DOID:1564,fungal infectious disease,101,50,True
+DOID:10457,Legionnaires' disease,98,50,True
+DOID:1273,respiratory syncytial virus infectious disease,97,50,True
+DOID:9065,leishmaniasis,80,50,True
+DOID:11339,pneumocystosis,76,50,True
+DOID:216,dental caries,74,50,True
+DOID:11077,brucellosis,71,50,True
+DOID:14262,oral candidiasis,66,50,True
+DOID:10079,cysticercosis,64,50,True
+DOID:823,periapical periodontitis,61,50,True
+DOID:9861,miliary tuberculosis,60,50,True
+DOID:0081013,severe COVID-19,59,50,True
+DOID:8622,measles,58,50,True
+DOID:8632,Kaposi's sarcoma,58,50,True
+DOID:1024,leprosy,57,50,True
+DOID:9470,bacterial meningitis,57,50,True
+DOID:2938,Epstein-Barr virus infectious disease,53,50,True
+DOID:11729,Lyme disease,52,50,True
+DOID:8478,actinomycosis,52,50,True
+DOID:12053,cryptococcosis,51,50,True
+DOID:1731,histoplasmosis,51,50,True
+DOID:874,bacterial pneumonia,51,50,True
+DOID:10533,viral pneumonia,44,50,False
+DOID:2297,leptospirosis,43,50,False
+DOID:646,viral encephalitis,42,50,False
+DOID:10264,mumps,40,50,False
+DOID:12205,dengue disease,37,50,False
+DOID:1395,schistosomiasis,36,50,False
+DOID:2312,nocardiosis,35,50,False
+DOID:8568,infectious mononucleosis,35,50,False
+DOID:10459,common cold,34,50,False
+DOID:0050073,invasive aspergillosis,33,50,False
+DOID:9146,visceral leishmaniasis,33,50,False
+DOID:11080,myiasis,31,50,False
+DOID:11256,typhus,31,50,False
+DOID:1495,cystic echinococcosis,31,50,False
+DOID:1003,pelvic inflammatory disease,30,50,False
+DOID:0050598,extrapulmonary tuberculosis,28,50,False
+DOID:11405,diphtheria,28,50,False
+DOID:11949,Creutzfeldt-Jakob disease,28,50,False
+DOID:13371,scrub typhus,28,50,False
+DOID:643,progressive multifocal leukoencephalopathy,28,50,False
+DOID:0080711,multisystem inflammatory syndrome in children,27,50,False
+DOID:13258,typhoid fever,27,50,False
+DOID:14115,toxic shock syndrome,27,50,False
+DOID:4157,secondary syphilis,27,50,False
+DOID:9111,cutaneous leishmaniasis,27,50,False
+DOID:11260,rabies,26,50,False
+DOID:13272,Klebsiella pneumonia,26,50,False
+DOID:1586,rheumatic fever,26,50,False
+DOID:1116,pertussis,25,50,False
+DOID:2755,Mycobacterium avium complex disease,24,50,False
+DOID:1080,filariasis,23,50,False
+DOID:11168,anogenital venereal wart,23,50,False
+DOID:4411,hepatitis E,23,50,False
+DOID:5052,melioidosis,23,50,False
+DOID:11100,Q fever,22,50,False
+DOID:8295,scabies,22,50,False
+DOID:7551,gonorrhea,20,50,False
+DOID:11269,chronic apical periodontitis,19,50,False
+DOID:13276,Mycoplasma pneumoniae pneumonia,19,50,False
+DOID:13450,coccidioidomycosis,19,50,False
+DOID:1398,parasitic infectious disease,19,50,False
+DOID:0060645,chronic recurrent multifocal osteomyelitis,18,50,False
+DOID:0080159,Cryptococcal meningitis,18,50,False
+DOID:106,pleural tuberculosis,18,50,False
+DOID:12662,paracoccidioidomycosis,18,50,False
+DOID:13166,allergic bronchopulmonary aspergillosis,18,50,False
+DOID:2562,suppurative periapical periodontitis,18,50,False
+DOID:649,prion disease,18,50,False
+DOID:10844,Japanese encephalitis,17,50,False
+DOID:0050012,chikungunya,16,50,False
+DOID:0060859,salmonellosis,16,50,False
+DOID:10310,viral meningitis,16,50,False
+DOID:11104,spotted fever,16,50,False
+DOID:9801,tuberculous peritonitis,16,50,False
+DOID:0050599,abdominal tuberculosis,15,50,False
+DOID:11337,Lemierre's syndrome,15,50,False
+DOID:11573,listeriosis,15,50,False
+DOID:13282,intestinal tuberculosis,15,50,False
+DOID:1498,cholera,15,50,False
+DOID:4953,poliomyelitis,15,50,False
+DOID:8867,molluscum contagiosum,15,50,False
+DOID:10887,lepromatous leprosy,14,50,False
+DOID:13146,esophageal candidiasis,14,50,False
+DOID:14067,Plasmodium falciparum malaria,14,50,False
+DOID:4889,lymph node tuberculosis,14,50,False
+DOID:9181,amebiasis,14,50,False
+DOID:12663,blastomycosis,13,50,False
+DOID:14484,sporotrichosis,13,50,False
+DOID:1474,aggressive periodontitis,13,50,False
+DOID:9159,gas gangrene,13,50,False
+DOID:9856,congenital syphilis,13,50,False
+DOID:0080848,long COVID,12,50,False
+DOID:11262,ornithosis,11,50,False
+DOID:12140,Chagas disease,11,50,False
+DOID:0040084,Streptococcus pneumonia,10,50,False
+DOID:11258,cat-scratch disease,10,50,False
+DOID:12179,tinea corporis,10,50,False
+DOID:13760,Pthirus pubis infestation,10,50,False
+DOID:2058,chronic mucocutaneous candidiasis,10,50,False
+DOID:2149,urogenital tuberculosis,10,50,False
+DOID:9790,toxocariasis,10,50,False
+DOID:0050523,adult T-cell leukemia/lymphoma,9,50,False
+DOID:10080,sparganosis,9,50,False
+DOID:12155,lymphocytic choriomeningitis,9,50,False
+DOID:1394,urinary schistosomiasis,9,50,False
+DOID:14049,phaeohyphomycosis,9,50,False
+DOID:4962,pericardial tuberculosis,9,50,False
+DOID:885,fascioliasis,9,50,False
+DOID:9155,mucocutaneous leishmaniasis,9,50,False
+DOID:0050278,basidiobolomycosis,8,50,False
+DOID:10955,strongyloidiasis,8,50,False
+DOID:12206,dengue hemorrhagic fever,8,50,False
+DOID:14374,norwegian scabies,8,50,False
+DOID:1562,chromoblastomycosis,8,50,False
+DOID:2123,tularemia,8,50,False
+DOID:3292,mpox,8,50,False
+DOID:4337,tinea capitis,8,50,False
+DOID:8704,genital herpes,8,50,False
+DOID:9113,granuloma inguinale,8,50,False
+DOID:9682,yellow fever,8,50,False
+DOID:9700,bacterial conjunctivitis,8,50,False
+DOID:9733,renal tuberculosis,8,50,False
+DOID:0040085,bacterial sepsis,7,50,False
+DOID:1082,dirofilariasis,7,50,False
+DOID:11102,bartonellosis,7,50,False
+DOID:12148,alveolar echinococcosis,7,50,False
+DOID:13078,eumycotic mycetoma,7,50,False
+DOID:13819,lymphogranuloma venereum,7,50,False
+DOID:14069,cerebral malaria,7,50,False
+DOID:1639,skeletal tuberculosis,7,50,False
+DOID:456,ascariasis,7,50,False
+DOID:4617,periapical granuloma,7,50,False
+DOID:8200,tertiary syphilis,7,50,False
+DOID:8913,dermatophytosis,7,50,False
+DOID:9643,babesiosis,7,50,False
+DOID:0050175,tick-borne encephalitis,6,50,False
+DOID:0080642,Middle East respiratory syndrome,6,50,False
+DOID:11079,leech infestation,6,50,False
+DOID:11608,fungal meningitis,6,50,False
+DOID:13336,congenital toxoplasmosis,6,50,False
+DOID:1638,central nervous system tuberculosis,6,50,False
+DOID:2409,rhinosporidiosis,6,50,False
+DOID:401,multidrug-resistant tuberculosis,6,50,False
+DOID:4156,primary syphilis,6,50,False
+DOID:9063,Ritter's disease,6,50,False
+DOID:0070344,ocular tuberculosis,5,50,False
+DOID:1025,tuberculoid leprosy,5,50,False
+DOID:10699,paragonimiasis,5,50,False
+DOID:11227,acute hemorrhagic conjunctivitis,5,50,False
+DOID:12211,filarial elephantiasis,5,50,False
+DOID:12403,tinea pedis,5,50,False
+DOID:12683,vestibular neuronitis,5,50,False
+DOID:1733,cryptosporidiosis,5,50,False
+DOID:4562,subacute bacterial endocarditis,5,50,False
+DOID:5502,lice infestation,5,50,False
+DOID:0050052,Rocky Mountain spotted fever,4,50,False
+DOID:0050256,angiostrongyliasis,4,50,False
+DOID:0050268,ophthalmomyiasis,4,50,False
+DOID:10113,trypanosomiasis,4,50,False
+DOID:10242,ehrlichiosis,4,50,False
+DOID:10881,"hand, foot and mouth disease",4,50,False
+DOID:11976,botulism,4,50,False
+DOID:12978,Plasmodium vivax malaria,4,50,False
+DOID:13034,relapsing fever,4,50,False
+DOID:13074,tinea unguium,4,50,False
+DOID:217,enamel caries,4,50,False
+DOID:3385,bacterial vaginosis,4,50,False
+DOID:407,hepatic tuberculosis,4,50,False
+DOID:4271,microsporidiosis,4,50,False
+DOID:7033,anisakiasis,4,50,False
+DOID:7894,mite infestation,4,50,False
+DOID:8736,smallpox,4,50,False
+DOID:9210,Ramsay Hunt syndrome,4,50,False
+DOID:9531,latent syphilis,4,50,False
+DOID:0050246,granulomatous amebic encephalitis,3,50,False
+DOID:0050290,trichosporonosis,3,50,False
+DOID:0050495,exanthema subitum,3,50,False
+DOID:0070528,cepacia syndrome,3,50,False
+DOID:0080161,cutaneous candidiasis,3,50,False
+DOID:0080176,meningococcal meningitis,3,50,False
+DOID:10718,giardiasis,3,50,False
+DOID:11693,acute apical periodontitis,3,50,False
+DOID:12919,Plasmodium ovale malaria,3,50,False
+DOID:13444,glanders,3,50,False
+DOID:13722,neuroschistosomiasis,3,50,False
+DOID:13778,chancroid,3,50,False
+DOID:14089,root caries,3,50,False
+DOID:14095,boutonneuse fever,3,50,False
+DOID:14472,hantavirus pulmonary syndrome,3,50,False
+DOID:2047,hepatitis D,3,50,False
+DOID:2272,vulvovaginal candidiasis,3,50,False
+DOID:3298,vaccinia,3,50,False
+DOID:402,oral tuberculosis,3,50,False
+DOID:4492,avian influenza,3,50,False
+DOID:5435,variant Creutzfeldt-Jakob disease,3,50,False
+DOID:883,parasitic helminthiasis infectious disease,3,50,False
+DOID:8970,subacute sclerosing panencephalitis,3,50,False
+DOID:9060,pityriasis versicolor,3,50,False
+DOID:9305,splenic tuberculosis,3,50,False
+DOID:9909,hordeolum,3,50,False
+DOID:0040083,Chlamydia pneumonia,2,50,False
+DOID:0050050,Japanese spotted fever,2,50,False
+DOID:0050133,superficial mycosis,2,50,False
+DOID:0050136,systemic mycosis,2,50,False
+DOID:0050153,pulmonary aspergilloma,2,50,False
+DOID:0050279,conidiobolomycosis,2,50,False
+DOID:0050289,fusariosis,2,50,False
+DOID:0050596,taeniasis,2,50,False
+DOID:0050597,intestinal schistosomiasis,2,50,False
+DOID:0060345,bacillary angiomatosis,2,50,False
+DOID:0080827,human cytomegalovirus infection,2,50,False
+DOID:0081014,non-severe COVID-19,2,50,False
+DOID:0081463,recurrent respiratory papillomatosis,2,50,False
+DOID:10027,tabes dorsalis,2,50,False
+DOID:10039,late congenital syphilis,2,50,False
+DOID:10074,hymenolepiasis,2,50,False
+DOID:10112,sleeping sickness,2,50,False
+DOID:10458,legionellosis,2,50,False
+DOID:11265,trachoma,2,50,False
+DOID:11266,Hantavirus hemorrhagic fever with renal syndrome,2,50,False
+DOID:11285,tick paralysis,2,50,False
+DOID:11336,rhinoscleroma,2,50,False
+DOID:11379,gnathomiasis,2,50,False
+DOID:11574,streptococcal meningitis,2,50,False
+DOID:11917,tinea cruris,2,50,False
+DOID:12385,shigellosis,2,50,False
+DOID:12386,balantidiasis,2,50,False
+DOID:13026,lobomycosis,2,50,False
+DOID:13368,tinea profunda,2,50,False
+DOID:13386,gastrointestinal anthrax,2,50,False
+DOID:13767,clonorchiasis,2,50,False
+DOID:2113,coccidiosis,2,50,False
+DOID:2365,West Nile encephalitis,2,50,False
+DOID:2366,West Nile fever,2,50,False
+DOID:2832,geotrichosis,2,50,False
+DOID:4325,Ebola virus disease,2,50,False
+DOID:5154,borna disease,2,50,False
+DOID:7332,esophageal tuberculosis,2,50,False
+DOID:7426,cutaneous anthrax,2,50,False
+DOID:8596,scarlet fever,2,50,False
+DOID:8672,viral exanthem,2,50,False
+DOID:8743,erythema infectiosum,2,50,False
+DOID:9123,eczema herpeticum,2,50,False
+DOID:9699,ophthalmia neonatorum,2,50,False
+DOID:0050096,tinea barbae,1,50,False
+DOID:0050134,cutaneous mycosis,1,50,False
+DOID:0050242,primary amebic meningoencephalitis,1,50,False
+DOID:0050288,penicilliosis,1,50,False
+DOID:0050481,endemic typhus,1,50,False
+DOID:0050488,early congenital syphilis,1,50,False
+DOID:0070702,measles inclusion body encephalitis,1,50,False
+DOID:0080180,Zika virus congenital syndrome,1,50,False
+DOID:0081012,critical COVID-19,1,50,False
+DOID:1023,borderline leprosy,1,50,False
+DOID:10461,dentin caries,1,50,False
+DOID:10841,Eastern equine encephalitis,1,50,False
+DOID:10883,herpangina,1,50,False
+DOID:11101,trench fever,1,50,False
+DOID:11103,rickettsialpox,1,50,False
+DOID:11302,cercarial dermatitis,1,50,False
+DOID:11572,Listeria meningitis,1,50,False
+DOID:11678,onchocerciasis,1,50,False
+DOID:11990,ulceroglandular tularemia,1,50,False
+DOID:1218,echinostomiasis,1,50,False
+DOID:1252,trichuriasis,1,50,False
+DOID:13523,loiasis,1,50,False
+DOID:13565,neuroaspergillosis,1,50,False
+DOID:13921,bacterial esophagitis,1,50,False
+DOID:14324,Plasmodium malariae malaria,1,50,False
+DOID:14325,mixed malaria,1,50,False
+DOID:1947,trichomoniasis,1,50,False
+DOID:2473,opportunistic mycosis,1,50,False
+DOID:3055,paratyphoid fever,1,50,False
+DOID:321,HTLV-1-associated myelopathy/tropical spastic paraparesis,1,50,False
+DOID:3436,viral laryngitis,1,50,False
+DOID:3482,plague,1,50,False
+DOID:3530,chronic wasting disease,1,50,False
+DOID:404,gastrointestinal tuberculosis,1,50,False
+DOID:5362,focal epithelial hyperplasia,1,50,False
+DOID:648,kuru,1,50,False
+DOID:873,anaerobic pneumonia,1,50,False
+DOID:8912,tinea nigra,1,50,False
+DOID:9577,neonatal candidiasis,1,50,False
+DOID:9880,cardiovascular syphilis,1,50,False

@@ -1,0 +1,167 @@
+﻿case_id,article_id,candidate_disease_count,candidate_diseases,candidate_disease_names,ruled_out_candidate_ids,ruled_out_candidate_names,ruled_out_candidate_count
+PMC10012167_01,PMC10012167,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC10036575_01,PMC10036575,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10094453_01,PMC10094453,1,['DOID:8536'],['herpes zoster'],['DOID:8536'],['herpes zoster'],1
+PMC10105509_01,PMC10105509,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC10174454_01,PMC10174454,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC10232950_01,PMC10232950,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10243652_02,PMC10243652,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10272489_01,PMC10272489,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10280286_01,PMC10280286,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10329462_01,PMC10329462,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10337781_01,PMC10337781,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC10362915_01,PMC10362915,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10413097_01,PMC10413097,1,['DOID:11729'],['Lyme disease'],['DOID:11729'],['Lyme disease'],1
+PMC10413186_01,PMC10413186,2,"['DOID:13166', 'DOID:13564']","['allergic bronchopulmonary aspergillosis', 'aspergillosis']","['DOID:13166', 'DOID:13564']","['allergic bronchopulmonary aspergillosis', 'aspergillosis']",2
+PMC10449538_01,PMC10449538,1,['DOID:0060000'],['infective endocarditis'],['DOID:0060000'],['infective endocarditis'],1
+PMC10493093_01,PMC10493093,2,"['DOID:2957', 'DOID:399']","['pulmonary tuberculosis', 'tuberculosis']","['DOID:2957', 'DOID:399']","['pulmonary tuberculosis', 'tuberculosis']",2
+PMC10496679_01,PMC10496679,1,['DOID:12549'],['hepatitis A'],['DOID:12549'],['hepatitis A'],1
+PMC10516191_01,PMC10516191,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC10516756_01,PMC10516756,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10547894_01,PMC10547894,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC10577654_01,PMC10577654,1,['DOID:10079'],['cysticercosis'],['DOID:10079'],['cysticercosis'],1
+PMC10593167_01,PMC10593167,1,['DOID:2945'],['severe acute respiratory syndrome'],['DOID:2945'],['severe acute respiratory syndrome'],1
+PMC10601728_01,PMC10601728,1,['DOID:1733'],['cryptosporidiosis'],['DOID:1733'],['cryptosporidiosis'],1
+PMC10624938_01,PMC10624938,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10629857_01,PMC10629857,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10634224_01,PMC10634224,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10657208_01,PMC10657208,2,"['DOID:0080600', 'DOID:2945']","['COVID-19', 'severe acute respiratory syndrome']","['DOID:0080600', 'DOID:2945']","['COVID-19', 'severe acute respiratory syndrome']",2
+PMC10660240_01,PMC10660240,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10710782_01,PMC10710782,2,"['DOID:399', 'DOID:4166']","['tuberculosis', 'syphilis']","['DOID:399', 'DOID:4166']","['tuberculosis', 'syphilis']",2
+PMC10748863_01,PMC10748863,1,['DOID:0080784'],['urinary tract infection'],['DOID:0080784'],['urinary tract infection'],1
+PMC10766069_01,PMC10766069,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10822107_01,PMC10822107,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10839003_03,PMC10839003,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC10874295_01,PMC10874295,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC10877141_01,PMC10877141,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC10907052_01,PMC10907052,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC10921103_01,PMC10921103,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC10957065_01,PMC10957065,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC11070754_01,PMC11070754,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC11079518_01,PMC11079518,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC11215278_02,PMC11215278,2,"['DOID:4166', 'DOID:9965']","['syphilis', 'toxoplasmosis']","['DOID:4166', 'DOID:9965']","['syphilis', 'toxoplasmosis']",2
+PMC11218545_01,PMC11218545,1,['DOID:9470'],['bacterial meningitis'],['DOID:9470'],['bacterial meningitis'],1
+PMC11221446_01,PMC11221446,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC11249474_01,PMC11249474,1,['DOID:0080784'],['urinary tract infection'],['DOID:0080784'],['urinary tract infection'],1
+PMC11291234_01,PMC11291234,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC11294937_01,PMC11294937,2,"['DOID:13282', 'DOID:399']","['intestinal tuberculosis', 'tuberculosis']","['DOID:13282', 'DOID:399']","['intestinal tuberculosis', 'tuberculosis']",2
+PMC11333091_01,PMC11333091,1,['DOID:10533'],['viral pneumonia'],['DOID:10533'],['viral pneumonia'],1
+PMC11664150_01,PMC11664150,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC11671069_01,PMC11671069,1,['DOID:8469'],['influenza'],['DOID:8469'],['influenza'],1
+PMC11721390_01,PMC11721390,1,['DOID:2945'],['severe acute respiratory syndrome'],['DOID:2945'],['severe acute respiratory syndrome'],1
+PMC11734615_01,PMC11734615,2,"['DOID:2957', 'DOID:399']","['pulmonary tuberculosis', 'tuberculosis']","['DOID:2957', 'DOID:399']","['pulmonary tuberculosis', 'tuberculosis']",2
+PMC11737896_01,PMC11737896,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC11745282_01,PMC11745282,1,['DOID:9181'],['amebiasis'],['DOID:9181'],['amebiasis'],1
+PMC11763228_01,PMC11763228,1,['DOID:526'],['human immunodeficiency virus infectious disease'],['DOID:526'],['human immunodeficiency virus infectious disease'],1
+PMC11779679_01,PMC11779679,1,['DOID:0060000'],['infective endocarditis'],['DOID:0060000'],['infective endocarditis'],1
+PMC11813634_01,PMC11813634,1,['DOID:526'],['human immunodeficiency virus infectious disease'],['DOID:526'],['human immunodeficiency virus infectious disease'],1
+PMC11818129_01,PMC11818129,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC12364695_01,PMC12364695,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC1236943_01,PMC1236943,1,['DOID:0060000'],['infective endocarditis'],['DOID:0060000'],['infective endocarditis'],1
+PMC12414992_01,PMC12414992,1,['DOID:934'],['viral infectious disease'],['DOID:934'],['viral infectious disease'],1
+PMC12605032_01,PMC12605032,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC12705121_01,PMC12705121,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC12727997_01,PMC12727997,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC12893235_02,PMC12893235,1,['DOID:10457'],"[""Legionnaires' disease""]",['DOID:10457'],"[""Legionnaires' disease""]",1
+PMC12920072_01,PMC12920072,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC12936702_01,PMC12936702,1,['DOID:14089'],['root caries'],['DOID:14089'],['root caries'],1
+PMC13006360_02,PMC13006360,1,['DOID:1496'],['echinococcosis'],['DOID:1496'],['echinococcosis'],1
+PMC13012558_01,PMC13012558,1,['DOID:934'],['viral infectious disease'],['DOID:934'],['viral infectious disease'],1
+PMC13037518_01,PMC13037518,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC13045276_01,PMC13045276,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC13122557_01,PMC13122557,1,['DOID:8566'],['herpes simplex'],['DOID:8566'],['herpes simplex'],1
+PMC1352359_01,PMC1352359,1,['DOID:0060000'],['infective endocarditis'],['DOID:0060000'],['infective endocarditis'],1
+PMC2259372_01,PMC2259372,2,"['DOID:1495', 'DOID:1496']","['cystic echinococcosis', 'echinococcosis']","['DOID:1495', 'DOID:1496']","['cystic echinococcosis', 'echinococcosis']",2
+PMC2631541_02,PMC2631541,1,['DOID:1496'],['echinococcosis'],['DOID:1496'],['echinococcosis'],1
+PMC2649049_01,PMC2649049,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC2698060_02,PMC2698060,1,['DOID:8566'],['herpes simplex'],['DOID:8566'],['herpes simplex'],1
+PMC2782174_01,PMC2782174,1,['DOID:934'],['viral infectious disease'],['DOID:934'],['viral infectious disease'],1
+PMC2823715_01,PMC2823715,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC3123515_01,PMC3123515,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC3195164_01,PMC3195164,1,['DOID:2297'],['leptospirosis'],['DOID:2297'],['leptospirosis'],1
+PMC3201579_01,PMC3201579,1,['DOID:1496'],['echinococcosis'],['DOID:1496'],['echinococcosis'],1
+PMC3228381_01,PMC3228381,1,['DOID:10079'],['cysticercosis'],['DOID:10079'],['cysticercosis'],1
+PMC3250343_01,PMC3250343,1,['DOID:12549'],['hepatitis A'],['DOID:12549'],['hepatitis A'],1
+PMC3277043_01,PMC3277043,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC3299063_01,PMC3299063,1,['DOID:11338'],['tetanus'],['DOID:11338'],['tetanus'],1
+PMC3593502_01,PMC3593502,1,['DOID:1080'],['filariasis'],['DOID:1080'],['filariasis'],1
+PMC3600993_01,PMC3600993,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC3612873_02,PMC3612873,1,['DOID:13276'],['Mycoplasma pneumoniae pneumonia'],['DOID:13276'],['Mycoplasma pneumoniae pneumonia'],1
+PMC3814913_01,PMC3814913,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC3892129_01,PMC3892129,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC3905332_01,PMC3905332,1,['DOID:12365'],['malaria'],['DOID:12365'],['malaria'],1
+PMC3938369_01,PMC3938369,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC3959349_01,PMC3959349,1,['DOID:934'],['viral infectious disease'],['DOID:934'],['viral infectious disease'],1
+PMC3959372_01,PMC3959372,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4025146_01,PMC4025146,1,['DOID:12549'],['hepatitis A'],['DOID:12549'],['hepatitis A'],1
+PMC4025158_01,PMC4025158,2,"['DOID:2043', 'DOID:934']","['hepatitis B', 'viral infectious disease']","['DOID:2043', 'DOID:934']","['hepatitis B', 'viral infectious disease']",2
+PMC4085888_01,PMC4085888,1,['DOID:8781'],['rubella'],['DOID:8781'],['rubella'],1
+PMC4153214_01,PMC4153214,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4153231_01,PMC4153231,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4213526_01,PMC4213526,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4217757_01,PMC4217757,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4357143_01,PMC4357143,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4408310_01,PMC4408310,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC4461905_01,PMC4461905,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC4531545_01,PMC4531545,1,['DOID:12053'],['cryptococcosis'],['DOID:12053'],['cryptococcosis'],1
+PMC4531637_01,PMC4531637,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC4546785_01,PMC4546785,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4578058_01,PMC4578058,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC4732248_01,PMC4732248,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC4763698_01,PMC4763698,1,['DOID:13819'],['lymphogranuloma venereum'],['DOID:13819'],['lymphogranuloma venereum'],1
+PMC5264175_01,PMC5264175,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5297267_01,PMC5297267,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5406800_01,PMC5406800,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5411392_01,PMC5411392,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5422727_01,PMC5422727,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC5627014_01,PMC5627014,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC5642468_01,PMC5642468,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC5725355_01,PMC5725355,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC5738639_01,PMC5738639,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5760078_01,PMC5760078,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC5761502_01,PMC5761502,1,['DOID:8469'],['influenza'],['DOID:8469'],['influenza'],1
+PMC5804719_01,PMC5804719,1,['DOID:934'],['viral infectious disease'],['DOID:934'],['viral infectious disease'],1
+PMC5830816_01,PMC5830816,1,['DOID:0080784'],['urinary tract infection'],['DOID:0080784'],['urinary tract infection'],1
+PMC5848349_01,PMC5848349,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5905859_01,PMC5905859,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC5960236_01,PMC5960236,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC6280337_01,PMC6280337,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC6327707_01,PMC6327707,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC6381396_01,PMC6381396,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC6388523_01,PMC6388523,1,['DOID:11729'],['Lyme disease'],['DOID:11729'],['Lyme disease'],1
+PMC6585408_01,PMC6585408,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC6776457_01,PMC6776457,1,['DOID:1496'],['echinococcosis'],['DOID:1496'],['echinococcosis'],1
+PMC6859027_02,PMC6859027,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC6875264_01,PMC6875264,1,['DOID:1395'],['schistosomiasis'],['DOID:1395'],['schistosomiasis'],1
+PMC6886192_01,PMC6886192,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC7162578_02,PMC7162578,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC7170128_03,PMC7170128,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC7204886_01,PMC7204886,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC7249804_01,PMC7249804,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC7302892_01,PMC7302892,2,"['DOID:1884', 'DOID:2043']","['viral hepatitis', 'hepatitis B']","['DOID:1884', 'DOID:2043']","['viral hepatitis', 'hepatitis B']",2
+PMC7303839_01,PMC7303839,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC7326298_01,PMC7326298,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC7370423_01,PMC7370423,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC7447538_01,PMC7447538,1,['DOID:12140'],['Chagas disease'],['DOID:12140'],['Chagas disease'],1
+PMC7452951_01,PMC7452951,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC7470356_01,PMC7470356,1,['DOID:0080784'],['urinary tract infection'],['DOID:0080784'],['urinary tract infection'],1
+PMC7536462_01,PMC7536462,1,['DOID:8781'],['rubella'],['DOID:8781'],['rubella'],1
+PMC7568088_01,PMC7568088,1,['DOID:0060000'],['infective endocarditis'],['DOID:0060000'],['infective endocarditis'],1
+PMC7666689_01,PMC7666689,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC7750332_01,PMC7750332,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC8088491_01,PMC8088491,1,['DOID:12053'],['cryptococcosis'],['DOID:12053'],['cryptococcosis'],1
+PMC8131089_01,PMC8131089,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC8164421_01,PMC8164421,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC8206524_01,PMC8206524,2,"['DOID:2043', 'DOID:934']","['hepatitis B', 'viral infectious disease']","['DOID:2043', 'DOID:934']","['hepatitis B', 'viral infectious disease']",2
+PMC8382309_01,PMC8382309,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC8397522_01,PMC8397522,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC8479959_01,PMC8479959,1,['DOID:399'],['tuberculosis'],['DOID:399'],['tuberculosis'],1
+PMC8485840_01,PMC8485840,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1
+PMC8548719_02,PMC8548719,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC8565699_01,PMC8565699,1,['DOID:526'],['human immunodeficiency virus infectious disease'],['DOID:526'],['human immunodeficiency virus infectious disease'],1
+PMC8571195_01,PMC8571195,1,['DOID:2043'],['hepatitis B'],['DOID:2043'],['hepatitis B'],1
+PMC8588749_01,PMC8588749,1,['DOID:0080600'],['COVID-19'],['DOID:0080600'],['COVID-19'],1
+PMC8716376_01,PMC8716376,1,['DOID:1884'],['viral hepatitis'],['DOID:1884'],['viral hepatitis'],1
+PMC8995659_01,PMC8995659,1,['DOID:934'],['viral infectious disease'],['DOID:934'],['viral infectious disease'],1
+PMC9022153_01,PMC9022153,1,['DOID:4166'],['syphilis'],['DOID:4166'],['syphilis'],1
+PMC9210193_01,PMC9210193,1,['DOID:1019'],['osteomyelitis'],['DOID:1019'],['osteomyelitis'],1

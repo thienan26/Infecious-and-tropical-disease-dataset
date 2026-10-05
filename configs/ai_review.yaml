@@ -1,0 +1,19 @@
+version: "ai_review_input_v002"
+
+population:
+  source: "pre_ai_eligible"
+
+disease_frequency_filter:
+  # Count DISTINCT clinical cases per disease.
+  count_unit: "unique_case"
+
+  # Keep only diseases occurring as candidate targets
+  # in at least this many pre-AI eligible cases.
+  min_candidate_cases_per_disease: 50
+
+export:
+  include_image_provenance: true
+
+  # Never expose Step 17/18 deterministic conclusions
+  # to ChatGPT or Claude.
+  blind_review: true

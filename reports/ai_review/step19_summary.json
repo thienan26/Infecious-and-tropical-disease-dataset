@@ -1,0 +1,23 @@
+{
+  "version": "ai_review_input_v002",
+  "frequency_definition": "COUNT(DISTINCT case_id) per disease within pre_ai_eligible",
+  "minimum_candidate_cases_per_disease": 50,
+  "pre_ai_eligible_cases": 7391,
+  "candidate_disease_concepts_before_filter": 316,
+  "retained_disease_concepts": 52,
+  "excluded_disease_concepts": 264,
+  "ai_review_cases": 6705,
+  "scope_filtered_cases": 686,
+  "coverage_fraction": 0.907184413475849,
+  "raw_text_chars_total": 26108614,
+  "raw_text_chars_median": 3493.0,
+  "raw_text_chars_max": 40685,
+  "review_input_sha256": "c51fe4559f51b99c89b18cc2adec3d844e0f4d4299218db30fa6744a2ec95e50",
+  "blind_review": true,
+  "routing_information_exported": false,
+  "deterministic_diagnosis_exported": false,
+  "article_title_exported": false,
+  "keywords_exported": false,
+  "mesh_exported": false,
+  "image_captions_exported": false
+}

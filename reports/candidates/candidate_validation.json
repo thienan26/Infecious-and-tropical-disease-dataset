@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "summary": {
+    "scope_diseases": 386,
+    "candidate_diseases": 386,
+    "candidate_cases": 21646,
+    "case_disease_hypotheses": 39803,
+    "match_occurrences": 78859,
+    "metadata_only_hypotheses": 6337,
+    "cases_with_images": 7639,
+    "ambiguous_aliases": 2,
+    "hard_errors": 0,
+    "warnings": 1
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "AMBIGUOUS_ALIASES",
+      "message": "Aliases map to more than one disease concept. Review alias_diagnostics.csv",
+      "count": 2
+    }
+  ]
+}

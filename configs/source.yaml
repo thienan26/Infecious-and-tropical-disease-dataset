@@ -1,0 +1,23 @@
+dataset:
+  name: MultiCaRe
+  provider: Zenodo
+
+zenodo:
+  record_id: "20416562"
+  api_url: "https://zenodo.org/api/records/20416562"
+
+required_files:
+  - metadata.parquet
+  - cases.parquet
+  - case_images.parquet
+  - captions_and_labels.csv
+  - data_dictionary.csv
+
+paths:
+  raw_root: "data/raw/multicare"
+  normalized_root: "data/normalized"
+
+locking:
+  algorithm: sha256
+  fail_on_missing_file: true
+  fail_on_checksum_mismatch: true

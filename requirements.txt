@@ -4,3 +4,4 @@ requests>=2.32
 PyYAML>=6.0
 pyahocorasick>=2.1
 tqdm>=4.66
+Pillow>=10.4

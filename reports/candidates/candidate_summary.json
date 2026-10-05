@@ -1,0 +1,12 @@
+{
+  "scope_diseases": 386,
+  "matched_diseases": 386,
+  "normalized_cases": 98641,
+  "candidate_cases": 21646,
+  "case_disease_hypotheses": 39803,
+  "match_occurrences": 78859,
+  "raw_text_hypotheses": 33466,
+  "metadata_only_hypotheses": 6337,
+  "candidate_hypotheses_with_images": 14052,
+  "unique_candidate_cases_with_images": 7639
+}

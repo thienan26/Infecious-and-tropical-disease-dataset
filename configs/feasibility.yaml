@@ -1,0 +1,35 @@
+image:
+  allowed_types:
+    - radiology
+    - pathology
+    - endoscopy
+    - medical photograph
+    - ophthalmic imaging
+    - electrography
+
+
+prelabel_selection:
+
+  # Enough candidates so that labeling can later
+  # reduce the number without immediately killing
+  # the class.
+  min_candidate_cases: 60
+
+  # Diversity proxy before true dedup/grouping.
+  min_candidate_articles: 30
+
+  # Multimodal availability.
+  min_image_candidate_cases: 40
+
+  # Fraction of candidate cases that have
+  # at least one eligible image.
+  min_image_coverage: 0.35
+
+
+borderline:
+
+  min_candidate_cases: 40
+
+  min_candidate_articles: 20
+
+  min_image_candidate_cases: 25

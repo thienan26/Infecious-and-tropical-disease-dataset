@@ -1,0 +1,21 @@
+version: "pre_ai_v002"
+
+rules:
+  # Certain structural hard gates
+  require_raw_case_text: true
+  require_source_image: true
+  require_decodable_image: true
+
+  # Multiple disease mentions do NOT cause rejection.
+  # They only prevent automatic Silver acceptance
+  # and route the case to AI review.
+  max_scope_diseases_for_silver: 1
+
+  # Ambiguous aliases are not allowed to artificially
+  # increase the number of diseases mentioned in a case.
+  ignore_ambiguous_aliases_for_scope_count: true
+
+  # Diagnosis-based hard rejection is allowed only
+  # when >1 targets are independently high-confidence
+  # deterministic confirmations after ontology collapse.
+  reject_multiple_high_confidence_targets: true

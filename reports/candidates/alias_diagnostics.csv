@@ -1,0 +1,612 @@
+﻿alias,occurrences,unique_cases,unique_concepts,alias_length,fields,ambiguous_alias,short_alias
+murine typhus,50,7,2,13,article_keyword|article_title|raw_case_text,True,False
+foodborne botulism,12,5,2,18,article_title|raw_case_text,True,False
+covid-19,13636,4232,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+tuberculosis,8024,3688,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+sars,6338,2354,1,4,article_keyword|article_mesh|article_title|raw_case_text,False,True
+hepatitis b,3341,2441,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+influenza,1940,944,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+syphilis,1904,1233,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+osteomyelitis,1896,925,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+hepatitis c,1778,1489,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+herpes simplex,1256,1038,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+malaria,1221,434,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+urinary tract infection,1065,929,1,23,article_keyword|article_title|raw_case_text,False,False
+aids,1030,740,1,4,article_keyword|article_mesh|article_title|raw_case_text,False,True
+varicella,902,621,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mucormycosis,889,301,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+pulmonary tuberculosis,741,564,1,22,article_keyword|article_title|raw_case_text,False,False
+infective endocarditis,737,492,1,22,article_keyword|article_title|raw_case_text,False,False
+aspergillosis,735,359,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+sars-cov-2 infection,712,489,1,20,article_keyword|article_title|raw_case_text,False,False
+toxoplasmosis,712,432,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+candidiasis,667,353,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+legionella,604,308,1,10,article_keyword|article_mesh|article_title|raw_case_text,False,False
+herpes zoster,600,333,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+periodontitis,597,397,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+hepatitis a,596,534,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+virus infection,580,474,1,15,article_keyword|article_mesh|article_title|raw_case_text,False,False
+chlamydia,545,388,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+leishmaniasis,530,189,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+viral hepatitis,526,472,1,15,article_keyword|article_title|raw_case_text,False,False
+hiv infection,524,411,1,13,article_keyword|article_title|raw_case_text,False,False
+brucellosis,495,184,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+aspiration pneumonia,490,396,1,20,article_keyword|article_title|raw_case_text,False,False
+tetanus,484,298,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+leprosy,438,127,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+histoplasmosis,416,178,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+rubella,416,331,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+viral infection,385,366,1,15,article_keyword|article_title|raw_case_text,False,False
+severe acute respiratory syndrome,381,310,1,33,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mycosis,362,221,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+measles,335,179,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+echinococcosis,321,156,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+leptospirosis,316,139,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+lyme disease,307,194,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+respiratory syncytial virus,296,260,1,27,article_keyword|article_mesh|article_title|raw_case_text,False,False
+actinomycosis,279,116,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mis-c,274,123,1,5,article_keyword|article_title|raw_case_text,False,True
+severe covid-19,259,206,1,15,article_keyword|article_title|raw_case_text,False,False
+cryptococcosis,247,122,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+chronic hepatitis b,242,207,1,19,article_keyword|article_title|raw_case_text,False,False
+coccidioidomycosis,241,86,1,18,article_keyword|article_mesh|article_title|raw_case_text,False,False
+typhus,228,82,1,6,article_keyword|article_mesh|article_title|raw_case_text,False,False
+pertussis,223,87,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+dental caries,219,177,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+bacterial pneumonia,216,189,1,19,article_keyword|article_title|raw_case_text,False,False
+q fever,214,79,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+neurocysticercosis,202,93,1,18,article_keyword|article_mesh|article_title|raw_case_text,False,False
+bacterial meningitis,198,148,1,20,article_keyword|article_title|raw_case_text,False,False
+dengue fever,191,112,1,12,article_keyword|article_title|raw_case_text,False,False
+schistosomiasis,191,86,1,15,article_keyword|article_mesh|article_title|raw_case_text,False,False
+ebv infection,179,134,1,13,article_keyword|article_title|raw_case_text,False,False
+apical periodontitis,178,158,1,20,article_keyword|article_title|raw_case_text,False,False
+scrapie,175,1,1,7,article_keyword|article_title|raw_case_text,False,False
+hydatid disease,174,102,1,15,article_keyword|article_title|raw_case_text,False,False
+parasitemia,169,86,1,11,article_keyword|article_mesh|raw_case_text,False,False
+scrub typhus,169,61,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+rabies,164,60,1,6,article_keyword|article_mesh|article_title|raw_case_text,False,False
+nocardiosis,160,91,1,11,article_keyword|article_title|raw_case_text,False,False
+chikungunya,156,59,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+cholera,156,34,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+diphtheria,155,106,1,10,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mumps,155,116,1,5,article_keyword|article_mesh|article_title|raw_case_text,False,True
+scabies,153,50,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+chickenpox,152,92,1,10,article_keyword|article_mesh|article_title|raw_case_text,False,False
+myiasis,152,73,1,7,article_keyword|article_title|raw_case_text,False,False
+monkeypox,151,44,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+secondary syphilis,151,74,1,18,article_keyword|article_title|raw_case_text,False,False
+kaposi's sarcoma,149,86,1,16,article_keyword|article_title|raw_case_text,False,False
+cysticercosis,148,71,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mediterranean fever,148,81,1,19,article_keyword|article_mesh|article_title|raw_case_text,False,False
+rheumatic fever,146,91,1,15,article_keyword|article_mesh|article_title|raw_case_text,False,False
+viral encephalitis,146,118,1,18,article_keyword|article_title|raw_case_text,False,False
+kaposi sarcoma,145,82,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+hepatitis e,144,82,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+sporotrichosis,142,48,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+chronic hepatitis c,139,119,1,19,article_keyword|article_title|raw_case_text,False,False
+melioidosis,138,48,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+oral candidiasis,138,105,1,16,article_keyword|article_title|raw_case_text,False,False
+mononucleosis,137,103,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+typhoid,137,87,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+acquired immunodeficiency syndrome,136,111,1,34,article_keyword|article_mesh|article_title|raw_case_text,False,False
+thrush,130,112,1,6,article_keyword|raw_case_text,False,False
+blastomycosis,127,49,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mycoses,126,73,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+gonorrhea,121,87,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+progressive multifocal leukoencephalopathy,119,77,1,42,article_keyword|article_title|raw_case_text,False,False
+visceral leishmaniasis,119,70,1,22,article_keyword|article_title|raw_case_text,False,False
+viral pneumonia,117,103,1,15,article_keyword|article_title|raw_case_text,False,False
+cryptococcal meningitis,116,67,1,23,article_keyword|article_title|raw_case_text,False,False
+mpox,114,35,1,4,article_keyword|article_mesh|article_title|raw_case_text,False,True
+disseminated tuberculosis,113,85,1,25,article_keyword|article_title|raw_case_text,False,False
+botulism,112,34,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+pneumocystis jirovecii pneumonia,112,92,1,32,article_keyword|article_title|raw_case_text,False,False
+toxic shock,112,82,1,11,article_keyword|article_title|raw_case_text,False,False
+creutzfeldt-jakob disease,110,68,1,25,article_keyword|article_mesh|article_title|raw_case_text,False,False
+chagas disease,107,38,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mycobacterium avium complex,106,71,1,27,article_keyword|article_mesh|article_title|raw_case_text,False,False
+multisystem inflammatory syndrome in children,105,82,1,45,article_keyword|article_title|raw_case_text,False,False
+paracoccidioidomycosis,105,43,1,22,article_keyword|article_mesh|article_title|raw_case_text,False,False
+pneumocystis pneumonia,103,89,1,22,article_keyword|article_title|raw_case_text,False,False
+toxic shock syndrome,100,72,1,20,article_keyword|article_title|raw_case_text,False,False
+poliomyelitis,99,45,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+invasive aspergillosis,98,67,1,22,article_keyword|article_title|raw_case_text,False,False
+infectious mononucleosis,96,70,1,24,article_keyword|article_mesh|article_title|raw_case_text,False,False
+pelvic inflammatory disease,96,77,1,27,article_keyword|article_mesh|article_title|raw_case_text,False,False
+shingles,94,71,1,8,article_keyword|article_title|raw_case_text,False,False
+crmo,92,31,1,4,article_keyword|article_title|raw_case_text,False,True
+hepatitis b infection,90,79,1,21,article_keyword|article_title|raw_case_text,False,False
+spotted fever,89,55,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+cutaneous leishmaniasis,86,58,1,23,article_keyword|article_title|raw_case_text,False,False
+hydatidosis,85,58,1,11,article_keyword|article_title|raw_case_text,False,False
+long covid,84,51,1,10,article_keyword|article_title|raw_case_text,False,False
+miliary tuberculosis,84,57,1,20,article_keyword|article_title|raw_case_text,False,False
+filariasis,82,42,1,10,article_keyword|article_title|raw_case_text,False,False
+tsutsugamushi,81,28,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+babesiosis,78,34,1,10,article_keyword|article_mesh|article_title|raw_case_text,False,False
+molluscum contagiosum,78,40,1,21,article_keyword|article_mesh|article_title|raw_case_text,False,False
+neuroborreliosis,76,40,1,16,article_keyword|article_mesh|article_title|raw_case_text,False,False
+common cold,75,69,1,11,article_title|raw_case_text,False,False
+extrapulmonary tuberculosis,70,64,1,27,article_keyword|article_title|raw_case_text,False,False
+chronic recurrent multifocal osteomyelitis,69,38,1,42,article_keyword|article_mesh|article_title|raw_case_text,False,False
+vaccinia,69,16,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+hepatitis c infection,68,66,1,21,article_title|raw_case_text,False,False
+klebsiella pneumonia,68,63,1,20,article_keyword|article_title|raw_case_text,False,False
+mers,68,28,1,4,article_keyword|article_title|raw_case_text,False,True
+typhoid fever,67,37,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+ebola,65,21,1,5,article_keyword|article_mesh|article_title|raw_case_text,False,True
+congenital syphilis,64,35,1,19,article_keyword|article_title|raw_case_text,False,False
+allergic bronchopulmonary aspergillosis,62,44,1,39,article_keyword|article_title|raw_case_text,False,False
+prion disease,62,36,1,13,article_keyword|article_title|raw_case_text,False,False
+yellow fever,62,28,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+epstein-barr virus infection,61,57,1,28,article_keyword|article_title|raw_case_text,False,False
+gas gangrene,61,36,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mycoplasma pneumonia,61,53,1,20,article_keyword|article_title|raw_case_text,False,False
+covid19,59,47,1,7,article_keyword|article_title|raw_case_text,False,False
+phaeohyphomycosis,58,27,1,17,article_keyword|article_mesh|article_title|raw_case_text,False,False
+toxocariasis,58,29,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+cryptococcal infection,57,45,1,22,article_keyword|article_title|raw_case_text,False,False
+falciparum malaria,57,39,1,18,article_keyword|article_title|raw_case_text,False,False
+lemierre's syndrome,57,38,1,19,article_keyword|article_title|raw_case_text,False,False
+aggressive periodontitis,55,31,1,24,article_keyword|article_mesh|article_title|raw_case_text,False,False
+lassa fever,55,18,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+listeriosis,55,24,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+strongyloidiasis,55,32,1,16,article_keyword|article_title|raw_case_text,False,False
+vibrio cholerae,55,36,1,15,article_keyword|article_mesh|article_title|raw_case_text,False,False
+zygomycosis,55,29,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+japanese encephalitis,54,42,1,21,article_keyword|article_title|raw_case_text,False,False
+echinococcus granulosus,53,49,1,23,article_keyword|raw_case_text,False,False
+ascariasis,51,21,1,10,article_keyword|article_title|raw_case_text,False,False
+ehrlichiosis,51,29,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+lemierre syndrome,50,25,1,17,article_keyword|article_mesh|article_title|raw_case_text,False,False
+intestinal tuberculosis,49,37,1,23,article_keyword|article_title|raw_case_text,False,False
+alveolar echinococcosis,48,21,1,23,article_keyword|article_mesh|article_title|raw_case_text,False,False
+basidiobolomycosis,47,18,1,18,article_keyword|article_title|raw_case_text,False,False
+condyloma acuminatum,47,28,1,20,article_keyword|article_title|raw_case_text,False,False
+streptococcus pneumonia,47,41,1,23,article_keyword|article_title|raw_case_text,False,False
+viral meningitis,47,45,1,16,article_keyword|raw_case_text,False,False
+acquired immune deficiency,45,38,1,26,article_keyword|article_title|raw_case_text,False,False
+chronic apical periodontitis,45,43,1,28,article_keyword|raw_case_text,False,False
+genital warts,45,29,1,13,article_keyword|article_title|raw_case_text,False,False
+cat-scratch disease,44,24,1,19,article_keyword|article_mesh|article_title|raw_case_text,False,False
+legionellosis,44,19,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+tularemia,44,21,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+legionella pneumonia,43,25,1,20,article_keyword|article_title|raw_case_text,False,False
+lepromatous leprosy,43,27,1,19,article_keyword|article_title|raw_case_text,False,False
+abdominal tuberculosis,42,33,1,22,article_keyword|article_title|raw_case_text,False,False
+acquired immune deficiency syndrome,42,35,1,35,article_keyword|article_title|raw_case_text,False,False
+psittacosis,42,24,1,11,article_keyword|article_mesh|article_title|raw_case_text,False,False
+chronic mucocutaneous candidiasis,41,27,1,33,article_keyword|article_title|raw_case_text,False,False
+kala-azar,41,18,1,9,article_keyword|article_title|raw_case_text,False,False
+chromoblastomycosis,39,13,1,19,article_keyword|article_mesh|article_title|raw_case_text,False,False
+esophageal candidiasis,39,34,1,22,article_keyword|article_title|raw_case_text,False,False
+trypanosomiasis,36,12,1,15,article_keyword|article_mesh|article_title|raw_case_text,False,False
+amebiasis,35,19,1,9,article_keyword|article_mesh|article_title|raw_case_text,False,False
+congenital toxoplasmosis,35,24,1,24,article_keyword|article_title|raw_case_text,False,False
+cystic echinococcosis,35,28,1,21,article_keyword|article_title|raw_case_text,False,False
+dengue hemorrhagic fever,35,28,1,24,article_keyword|article_title|raw_case_text,False,False
+genital herpes,35,23,1,14,article_title|raw_case_text,False,False
+tinea corporis,35,27,1,14,article_keyword|article_title|raw_case_text,False,False
+apical abscess,34,31,1,14,article_keyword|article_title|raw_case_text,False,False
+smallpox,33,20,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+tuberculous pleurisy,33,25,1,20,article_keyword|article_title|raw_case_text,False,False
+adult t-cell leukemia,32,23,1,21,article_keyword|article_title|raw_case_text,False,False
+rhinosporidiosis,32,13,1,16,article_keyword|article_title|raw_case_text,False,False
+sparganosis,32,12,1,11,article_keyword|article_title|raw_case_text,False,False
+tick-borne encephalitis,32,27,1,23,article_keyword|article_title|raw_case_text,False,False
+west nile fever,32,15,1,15,article_mesh,False,False
+avian influenza,31,15,1,15,article_keyword|article_title|raw_case_text,False,False
+pneumocystis carinii pneumonia,31,27,1,30,article_keyword|article_title|raw_case_text,False,False
+tuberculous peritonitis,31,26,1,23,article_keyword|article_title|raw_case_text,False,False
+eumycetoma,30,12,1,10,article_keyword|article_title|raw_case_text,False,False
+periapical abscess,30,24,1,18,article_keyword|article_title|raw_case_text,False,False
+rocky mountain spotted fever,30,24,1,28,article_keyword|article_mesh|article_title|raw_case_text,False,False
+tertiary syphilis,30,18,1,17,article_keyword|article_title|raw_case_text,False,False
+viral hepatitis a,30,26,1,17,article_keyword|article_title|raw_case_text,False,False
+hfmd,29,11,1,4,article_keyword|raw_case_text,False,True
+lyme borreliosis,29,25,1,16,article_keyword|article_title|raw_case_text,False,False
+amoebiasis,28,14,1,10,article_keyword|article_title|raw_case_text,False,False
+chikungunya fever,28,11,1,17,article_keyword|article_mesh|article_title|raw_case_text,False,False
+lyme neuroborreliosis,28,16,1,21,article_keyword|article_mesh|article_title|raw_case_text,False,False
+salmonella infection,28,22,1,20,article_keyword|article_title|raw_case_text,False,False
+fascioliasis,27,18,1,12,article_keyword|article_title|raw_case_text,False,False
+hantavirus pulmonary syndrome,27,10,1,29,article_keyword|article_mesh|article_title|raw_case_text,False,False
+pityriasis versicolor,27,19,1,21,article_keyword|article_title|raw_case_text,False,False
+salmonellosis,27,23,1,13,article_title|raw_case_text,False,False
+latent syphilis,26,22,1,15,article_keyword|article_title|raw_case_text,False,False
+subacute sclerosing panencephalitis,26,12,1,35,article_keyword|article_mesh|article_title|raw_case_text,False,False
+vivax malaria,26,17,1,13,article_keyword|article_title|raw_case_text,False,False
+candida esophagitis,25,20,1,19,article_keyword|article_title|raw_case_text,False,False
+cryptosporidiosis,25,16,1,17,article_keyword|article_mesh|article_title|raw_case_text,False,False
+dermatophytosis,25,17,1,15,article_keyword|article_title|raw_case_text,False,False
+mycoplasma pneumoniae pneumonia,25,14,1,31,article_keyword|article_title|raw_case_text,False,False
+acute rheumatic fever,24,16,1,21,article_keyword|article_title|raw_case_text,False,False
+atll,24,13,1,4,article_keyword|article_title|raw_case_text,False,True
+bartonellosis,24,18,1,13,article_keyword|article_title|raw_case_text,False,False
+lymph node tuberculosis,24,20,1,23,article_keyword|article_title|raw_case_text,False,False
+multidrug-resistant tuberculosis,24,21,1,32,article_keyword|article_title|raw_case_text,False,False
+ophthalmomyiasis,24,14,1,16,article_keyword|article_title|raw_case_text,False,False
+plasmodium falciparum malaria,24,19,1,29,article_keyword|article_title|raw_case_text,False,False
+anisakiasis,23,8,1,11,article_keyword|article_title|raw_case_text,False,False
+cerebral malaria,23,17,1,16,article_keyword|article_title|raw_case_text,False,False
+scarlet fever,23,11,1,13,article_keyword|article_title|raw_case_text,False,False
+vulvovaginal candidiasis,23,13,1,24,article_keyword|article_title|raw_case_text,False,False
+bacterial vaginosis,22,16,1,19,article_keyword|article_title|raw_case_text,False,False
+crusted scabies,22,11,1,15,article_keyword|article_title|raw_case_text,False,False
+giardiasis,22,15,1,10,article_keyword|article_mesh|article_title|raw_case_text,False,False
+paragonimiasis,22,8,1,14,article_keyword|article_mesh|article_title|raw_case_text,False,False
+periapical periodontitis,22,17,1,24,article_keyword|article_mesh|article_title|raw_case_text,False,False
+ramsay hunt syndrome,22,9,1,20,article_keyword|article_title|raw_case_text,False,False
+trachoma,22,5,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+adult t-cell leukemia/lymphoma,21,15,1,30,article_keyword|article_title|raw_case_text,False,False
+cutaneous candidiasis,21,9,1,21,article_keyword|article_title|raw_case_text,False,False
+dirofilariasis,21,14,1,14,article_keyword|article_title|raw_case_text,False,False
+disseminated mucormycosis,21,17,1,25,article_keyword|article_title|raw_case_text,False,False
+fusariosis,21,11,1,10,article_keyword|article_mesh|article_title|raw_case_text,False,False
+hepatic tuberculosis,21,12,1,20,article_keyword|article_title|raw_case_text,False,False
+legionnaires' disease,21,13,1,21,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mucocutaneous leishmaniasis,21,16,1,27,article_keyword|article_title|raw_case_text,False,False
+primary syphilis,21,14,1,16,article_keyword|article_title|raw_case_text,False,False
+serum hepatitis,21,21,1,15,raw_case_text,False,False
+vestibular neuritis,21,13,1,19,article_keyword|article_title|raw_case_text,False,False
+bacterial sepsis,20,20,1,16,article_keyword|raw_case_text,False,False
+geotrichosis,19,11,1,12,article_keyword|article_title,False,False
+microsporidiosis,19,7,1,16,article_keyword|article_mesh|article_title|raw_case_text,False,False
+root caries,19,10,1,11,article_keyword|article_title|raw_case_text,False,False
+tinea capitis,19,13,1,13,article_keyword|article_title|raw_case_text,False,False
+viral disease,19,19,1,13,article_keyword|article_title|raw_case_text,False,False
+anogenital warts,18,12,1,16,article_keyword|article_title|raw_case_text,False,False
+lymphogranuloma venereum,18,12,1,24,article_keyword|article_mesh|article_title|raw_case_text,False,False
+purulent conjunctivitis,18,13,1,23,article_title|raw_case_text,False,False
+tinea pedis,18,12,1,11,article_keyword|article_title|raw_case_text,False,False
+viral hepatitis c,18,14,1,17,article_title|raw_case_text,False,False
+leeches,17,8,1,7,article_keyword|article_title|raw_case_text,False,False
+osteoarticular tuberculosis,17,13,1,27,article_keyword|article_title|raw_case_text,False,False
+pediculosis,17,8,1,11,article_keyword|article_title|raw_case_text,False,False
+periapical granuloma,17,14,1,20,article_keyword|article_title|raw_case_text,False,False
+pleural tuberculosis,17,10,1,20,article_keyword|article_title|raw_case_text,False,False
+recurrent respiratory papillomatosis,17,12,1,36,article_keyword|article_title|raw_case_text,False,False
+renal tuberculosis,17,14,1,18,article_keyword|article_title|raw_case_text,False,False
+sspe,17,10,1,4,article_keyword|raw_case_text,False,True
+disseminated strongyloidiasis,16,10,1,29,article_keyword|article_title|raw_case_text,False,False
+post-covid syndrome,16,11,1,19,article_keyword|article_title|raw_case_text,False,False
+schistosoma haematobium,16,11,1,23,article_keyword|article_mesh|article_title|raw_case_text,False,False
+spongiform encephalopathy,16,14,1,25,article_keyword|article_title|raw_case_text,False,False
+subacute bacterial endocarditis,16,14,1,31,article_keyword|article_title|raw_case_text,False,False
+trichosporonosis,16,5,1,16,article_keyword|article_mesh|article_title|raw_case_text,False,False
+tuberculous pericarditis,16,11,1,24,article_keyword|article_title|raw_case_text,False,False
+actinomycetoma,15,9,1,14,article_keyword|article_title|raw_case_text,False,False
+cutaneous anthrax,15,7,1,17,article_keyword|article_mesh|article_title|raw_case_text,False,False
+genitourinary tuberculosis,15,14,1,26,article_keyword|article_title|raw_case_text,False,False
+pulmonary aspergilloma,15,8,1,22,article_keyword|article_title|raw_case_text,False,False
+viral exanthem,15,14,1,14,article_keyword|raw_case_text,False,False
+whooping cough,15,10,1,14,article_mesh|article_title|raw_case_text,False,False
+central nervous system tuberculosis,14,14,1,35,article_keyword|article_title|raw_case_text,False,False
+lymphocytic choriomeningitis,14,7,1,28,article_keyword|article_mesh|article_title|raw_case_text,False,False
+lymphocytic meningitis,14,12,1,22,article_keyword|article_title|raw_case_text,False,False
+norwegian scabies,14,7,1,17,article_keyword|article_title|raw_case_text,False,False
+ophthalmia neonatorum,14,8,1,21,article_keyword|article_title|raw_case_text,False,False
+paratyphoid,14,7,1,11,article_mesh|raw_case_text,False,False
+rhinoscleroma,14,6,1,13,article_keyword|article_mesh|article_title|raw_case_text,False,False
+acute apical periodontitis,13,12,1,26,raw_case_text,False,False
+crabs,13,9,1,5,raw_case_text,False,True
+mediterranean spotted fever,13,7,1,27,article_keyword|article_title|raw_case_text,False,False
+meningococcal meningitis,13,11,1,24,article_keyword|article_title|raw_case_text,False,False
+relapsing fever,13,9,1,15,article_keyword|article_mesh|article_title|raw_case_text,False,False
+tabes dorsalis,13,7,1,14,article_mesh|article_title|raw_case_text,False,False
+critical covid-19,12,9,1,17,article_keyword|article_title|raw_case_text,False,False
+herpes genitalis,12,7,1,16,article_mesh|raw_case_text,False,False
+hfrs,12,7,1,4,raw_case_text,False,True
+lymphatic filariasis,12,8,1,20,article_keyword|article_title|raw_case_text,False,False
+phthirus pubis,12,5,1,14,article_keyword|article_title|raw_case_text,False,False
+plague,12,12,1,6,article_mesh|article_title|raw_case_text,False,False
+rift valley fever,12,7,1,17,article_keyword|article_mesh|article_title|raw_case_text,False,False
+scalded skin syndrome,12,10,1,21,article_keyword|article_title|raw_case_text,False,False
+staphylococcal scalded skin syndrome,12,10,1,36,article_keyword|article_title|raw_case_text,False,False
+weil's disease,12,11,1,14,article_keyword|article_title|raw_case_text,False,False
+wound botulism,12,4,1,14,article_keyword|article_title|raw_case_text,False,False
+crimean-congo hemorrhagic fever,11,8,1,31,article_keyword|article_title|raw_case_text,False,False
+donovanosis,11,7,1,11,article_keyword|article_title|raw_case_text,False,False
+flea-borne typhus,11,6,1,17,article_keyword|article_title|raw_case_text,False,False
+glanders,11,4,1,8,article_keyword|article_mesh|article_title|raw_case_text,False,False
+ham/tsp,11,6,1,7,article_title|raw_case_text,False,False
+hepatic echinococcosis,11,7,1,22,article_keyword|article_title|raw_case_text,False,False
+hepatitis d,11,11,1,11,raw_case_text,False,False
+herpes zoster oticus,11,4,1,20,article_keyword|article_mesh|raw_case_text,False,False
+leech infestation,11,7,1,17,article_keyword|article_title|raw_case_text,False,False
+rubeola,11,11,1,7,raw_case_text,False,False
+african trypanosomiasis,10,5,1,23,article_keyword|article_title|raw_case_text,False,False
+angiostrongyliasis,10,7,1,18,article_keyword|article_title|raw_case_text,False,False
+congenital zika syndrome,10,3,1,24,article_keyword|article_title|raw_case_text,False,False
+disseminated toxoplasmosis,10,6,1,26,article_keyword|article_title|raw_case_text,False,False
+eczema herpeticum,10,6,1,17,article_keyword|article_title|raw_case_text,False,False
+isosporiasis,10,3,1,12,article_mesh|raw_case_text,False,False
+ocular tuberculosis,10,9,1,19,article_keyword|article_title|raw_case_text,False,False
+plasmodium vivax malaria,10,9,1,24,article_keyword|article_title|raw_case_text,False,False
+tick paralysis,10,9,1,14,article_keyword|raw_case_text,False,False
+tuberculoid leprosy,10,8,1,19,article_keyword|raw_case_text,False,False
+bejel,9,1,1,5,raw_case_text,False,True
+chlamydia pneumonia,9,8,1,19,article_keyword|article_title|raw_case_text,False,False
+diffuse cutaneous leishmaniasis,9,6,1,31,article_keyword|article_title|raw_case_text,False,False
+ebola virus disease,9,5,1,19,article_keyword|article_title|raw_case_text,False,False
+legionella infection,9,8,1,20,article_keyword|article_title|raw_case_text,False,False
+pasc,9,6,1,4,article_keyword|raw_case_text,False,True
+splenic tuberculosis,9,6,1,20,article_keyword|article_title|raw_case_text,False,False
+tinea cruris,9,7,1,12,article_keyword|article_mesh|article_title|raw_case_text,False,False
+bacterial conjunctivitis,8,7,1,24,article_keyword|article_title|raw_case_text,False,False
+borna disease,8,6,1,13,article_title|raw_case_text,False,False
+california encephalitis,8,6,1,23,article_keyword|raw_case_text,False,False
+chlamydial infection,8,6,1,20,article_keyword|raw_case_text,False,False
+cryptococcus neoformans infection,8,8,1,33,article_title|raw_case_text,False,False
+dentoalveolar abscess,8,7,1,21,article_title|raw_case_text,False,False
+erythema infectiosum,8,7,1,20,article_keyword|article_mesh|article_title|raw_case_text,False,False
+fungal meningitis,8,8,1,17,article_keyword|raw_case_text,False,False
+gastrointestinal tuberculosis,8,7,1,29,article_keyword|article_title,False,False
+"hand, foot and mouth disease",8,5,1,28,article_keyword|article_mesh|article_title,False,False
+infant botulism,8,1,1,15,article_keyword|article_title|raw_case_text,False,False
+maggot infestation,8,6,1,18,article_keyword|raw_case_text,False,False
+neuroschistosomiasis,8,4,1,20,article_keyword|article_title|raw_case_text,False,False
+newcastle disease,8,7,1,17,article_keyword|article_title|raw_case_text,False,False
+oral tuberculosis,8,8,1,17,article_keyword|article_title|raw_case_text,False,False
+paratyphoid fever,8,3,1,17,article_mesh|raw_case_text,False,False
+ringworm,8,7,1,8,raw_case_text,False,False
+tinea barbae,8,1,1,12,article_title|raw_case_text,False,False
+trichomoniasis,8,6,1,14,article_keyword|article_title|raw_case_text,False,False
+tuberculous pleuritis,8,8,1,21,raw_case_text,False,False
+urinary schistosomiasis,8,6,1,23,article_keyword|article_title|raw_case_text,False,False
+bacillary angiomatosis,7,4,1,22,article_keyword|raw_case_text,False,False
+chancroid,7,7,1,9,raw_case_text,False,False
+coccidiosis,7,7,1,11,raw_case_text,False,False
+disseminated candidiasis,7,4,1,24,article_keyword|raw_case_text,False,False
+eastern equine encephalitis,7,6,1,27,article_keyword|article_title|raw_case_text,False,False
+gastrointestinal anthrax,7,7,1,24,article_title,False,False
+helminthiasis,7,5,1,13,article_keyword|article_title|raw_case_text,False,False
+herpetic whitlow,7,4,1,16,article_keyword|article_title|raw_case_text,False,False
+hordeolum,7,5,1,9,article_keyword|article_title|raw_case_text,False,False
+madura foot,7,3,1,11,article_keyword|article_title|raw_case_text,False,False
+middle east respiratory syndrome,7,5,1,32,article_keyword|article_mesh|article_title|raw_case_text,False,False
+mite infestation,7,5,1,16,article_title|raw_case_text,False,False
+neuroaspergillosis,7,4,1,18,article_keyword|article_mesh,False,False
+oral moniliasis,7,5,1,15,raw_case_text,False,False
+primary amebic meningoencephalitis,7,4,1,34,article_keyword|article_title|raw_case_text,False,False
+systemic mycosis,7,7,1,16,article_keyword|raw_case_text,False,False
+theileriosis,7,1,1,12,raw_case_text,False,False
+blackwater fever,6,6,1,16,article_title|raw_case_text,False,False
+cellulitis and abscess,6,6,1,22,article_title|raw_case_text,False,False
+cepacia syndrome,6,4,1,16,article_title|raw_case_text,False,False
+enamel caries,6,5,1,13,raw_case_text,False,False
+gnathostomiasis,6,4,1,15,article_keyword|raw_case_text,False,False
+granuloma inguinale,6,5,1,19,article_keyword|article_title|raw_case_text,False,False
+human granulocytic ehrlichiosis,6,4,1,31,article_title|raw_case_text,False,False
+legionnaire's disease,6,5,1,21,article_title|raw_case_text,False,False
+lobomycosis,6,2,1,11,article_mesh|article_title|raw_case_text,False,False
+majocchi's granuloma,6,2,1,20,article_title|raw_case_text,False,False
+phlebotomus fever,6,2,1,17,article_mesh,False,False
+post-kala-azar dermal leishmaniasis,6,4,1,35,article_keyword|article_title,False,False
+shigellosis,6,6,1,11,article_keyword|article_title|raw_case_text,False,False
+tinea nigra,6,2,1,11,article_title|raw_case_text,False,False
+trench fever,6,5,1,12,article_keyword|article_mesh|article_title,False,False
+viral conjunctivitis,6,6,1,20,raw_case_text,False,False
+west nile encephalitis,6,6,1,22,article_title|raw_case_text,False,False
+balantidiasis,5,3,1,13,article_keyword|article_title,False,False
+creutzfeldt-jacob disease,5,4,1,25,article_keyword|article_title|raw_case_text,False,False
+cutaneous blastomycosis,5,3,1,23,article_keyword|article_title|raw_case_text,False,False
+cutaneous kaposi's sarcoma,5,5,1,26,article_title|raw_case_text,False,False
+esophageal tuberculosis,5,5,1,23,article_title|raw_case_text,False,False
+hymenolepiasis,5,2,1,14,article_keyword|article_title|raw_case_text,False,False
+intracranial tuberculoma,5,4,1,24,article_keyword|article_title|raw_case_text,False,False
+japanese spotted fever,5,3,1,22,article_keyword|article_title,False,False
+late congenital syphilis,5,2,1,24,article_keyword|article_title|raw_case_text,False,False
+loiasis,5,4,1,7,article_keyword|article_mesh|article_title|raw_case_text,False,False
+lujo hemorrhagic fever,5,5,1,22,article_title,False,False
+neonatal tetanus,5,3,1,16,article_keyword|article_title|raw_case_text,False,False
+oculoglandular tularemia,5,2,1,24,article_title|raw_case_text,False,False
+ovale malaria,5,5,1,13,article_title|raw_case_text,False,False
+paralytic poliomyelitis,5,3,1,23,article_keyword|article_title|raw_case_text,False,False
+penicilliosis,5,4,1,13,article_keyword|raw_case_text,False,False
+pericardial tuberculosis,5,5,1,24,article_keyword|article_title|raw_case_text,False,False
+pneumocystosis,5,5,1,14,article_keyword|raw_case_text,False,False
+pulmonary paragonimiasis,5,2,1,24,article_keyword|article_title|raw_case_text,False,False
+sars-cov infection,5,5,1,18,raw_case_text,False,False
+superficial mycosis,5,4,1,19,article_keyword|raw_case_text,False,False
+tinea unguium,5,2,1,13,article_title|raw_case_text,False,False
+trichinosis,5,3,1,11,article_title|raw_case_text,False,False
+tsutsugamushi disease,5,5,1,21,article_title|raw_case_text,False,False
+anaerobic meningitis,4,2,1,20,article_keyword|article_title,False,False
+bacterial esophagitis,4,2,1,21,article_keyword|raw_case_text,False,False
+borderline leprosy,4,3,1,18,article_title|raw_case_text,False,False
+candidal esophagitis,4,4,1,20,raw_case_text,False,False
+chagas' disease,4,4,1,15,raw_case_text,False,False
+clonorchiasis,4,2,1,13,raw_case_text,False,False
+conidiobolomycosis,4,3,1,18,article_title|raw_case_text,False,False
+cutaneous mycosis,4,3,1,17,article_keyword|raw_case_text,False,False
+exanthema subitum,4,4,1,17,article_keyword,False,False
+focal epithelial hyperplasia,4,4,1,28,raw_case_text,False,False
+genital herpes simplex,4,4,1,22,article_title|raw_case_text,False,False
+herpangina,4,4,1,10,raw_case_text,False,False
+human granulocytic anaplasmosis,4,2,1,31,article_keyword|article_title,False,False
+kuru,4,3,1,4,raw_case_text,False,True
+lice infestation,4,3,1,16,raw_case_text,False,False
+listeria meningitis,4,4,1,19,article_title|raw_case_text,False,False
+mycobacterium avium infection,4,4,1,29,article_title|raw_case_text,False,False
+pediculosis pubis,4,2,1,17,article_keyword|article_title|raw_case_text,False,False
+petrositis,4,4,1,10,article_mesh|raw_case_text,False,False
+pulmonary echinococcosis,4,3,1,24,article_title|raw_case_text,False,False
+rickettsialpox,4,2,1,14,article_title|raw_case_text,False,False
+schistosomiasis japonica,4,1,1,24,article_mesh|article_title,False,False
+skeletal tuberculosis,4,4,1,21,article_keyword|article_title|raw_case_text,False,False
+st. louis encephalitis,4,4,1,22,raw_case_text,False,False
+streptococcal meningitis,4,4,1,24,article_title|raw_case_text,False,False
+stye,4,3,1,4,raw_case_text,False,True
+subcutaneous mycosis,4,4,1,20,article_keyword|article_title|raw_case_text,False,False
+tick infestation,4,3,1,16,raw_case_text,False,False
+western equine encephalitis,4,4,1,27,raw_case_text,False,False
+yaws,4,1,1,4,raw_case_text,False,True
+acute hemorrhagic conjunctivitis,3,2,1,32,article_keyword|article_title|raw_case_text,False,False
+american cutaneous leishmaniasis,3,3,1,32,article_title|raw_case_text,False,False
+bacillary dysentery,3,3,1,19,article_keyword|raw_case_text,False,False
+bird flu,3,1,1,8,raw_case_text,False,False
+cardiovascular syphilis,3,2,1,23,article_keyword|article_title,False,False
+chromomycosis,3,3,1,13,raw_case_text,False,False
+chronic multifocal osteomyelitis,3,3,1,32,raw_case_text,False,False
+common wart,3,2,1,11,article_keyword|raw_case_text,False,False
+dengue haemorrhagic fever,3,3,1,25,article_title|raw_case_text,False,False
+dentin caries,3,3,1,13,raw_case_text,False,False
+eumycotic mycetoma,3,3,1,18,raw_case_text,False,False
+fatal familial insomnia,3,2,1,23,raw_case_text,False,False
+glandular fever,3,2,1,15,article_title|raw_case_text,False,False
+gonococcal conjunctivitis,3,2,1,25,article_keyword|article_title|raw_case_text,False,False
+human cytomegalovirus infection,3,3,1,31,article_title|raw_case_text,False,False
+intestinal schistosomiasis,3,2,1,26,article_keyword|article_title|raw_case_text,False,False
+mac disease,3,3,1,11,raw_case_text,False,False
+mixed malaria,3,2,1,13,article_keyword|article_title|raw_case_text,False,False
+naegleria fowleri infection,3,2,1,27,raw_case_text,False,False
+non-severe covid-19,3,2,1,19,article_keyword|article_title,False,False
+onchocerciasis,3,3,1,14,raw_case_text,False,False
+ostertagiasis,3,1,1,13,article_keyword|raw_case_text,False,False
+parametritis,3,2,1,12,article_title|raw_case_text,False,False
+pediculosis capitis,3,3,1,19,article_title|raw_case_text,False,False
+postpolio syndrome,3,2,1,18,article_title|raw_case_text,False,False
+rheumatic myocarditis,3,1,1,21,article_keyword|article_title|raw_case_text,False,False
+ross river virus disease,3,2,1,24,article_title|raw_case_text,False,False
+scrofula,3,3,1,8,article_keyword|raw_case_text,False,False
+taeniasis,3,3,1,9,raw_case_text,False,False
+toxocara infection,3,3,1,18,raw_case_text,False,False
+trichuriasis,3,2,1,12,article_keyword|article_title|raw_case_text,False,False
+tuberculous adenitis,3,3,1,20,raw_case_text,False,False
+tuberculous lymphadenopathy,3,2,1,27,article_title|raw_case_text,False,False
+variant creutzfeldt-jakob disease,3,3,1,33,article_title|raw_case_text,False,False
+vestibular neuronitis,3,3,1,21,raw_case_text,False,False
+2019-ncov infection,2,1,1,19,raw_case_text,False,False
+acute rhinitis,2,2,1,14,raw_case_text,False,False
+african histoplasmosis,2,1,1,22,article_title|raw_case_text,False,False
+apical granuloma,2,2,1,16,raw_case_text,False,False
+asymptomatic neurosyphilis,2,2,1,26,raw_case_text,False,False
+bladder schistosomiasis,2,1,1,23,article_keyword|article_title,False,False
+boutonneuse fever,2,1,1,17,article_mesh,False,False
+bovine spongiform encephalopathy,2,2,1,32,raw_case_text,False,False
+brazilian spotted,2,2,1,17,article_title|raw_case_text,False,False
+classic dengue,2,2,1,14,raw_case_text,False,False
+coenurosis,2,1,1,10,article_keyword|article_title,False,False
+creutzfeldt jakob disease,2,1,1,25,article_keyword|article_title,False,False
+dengue disease,2,2,1,14,raw_case_text,False,False
+dengue shock syndrome,2,2,1,21,raw_case_text,False,False
+ebola disease,2,1,1,13,raw_case_text,False,False
+echinostomiasis,2,1,1,15,article_title|raw_case_text,False,False
+fungal esophagitis,2,2,1,18,raw_case_text,False,False
+german measles,2,2,1,14,raw_case_text,False,False
+granulomatous amebic encephalitis,2,2,1,33,article_keyword|raw_case_text,False,False
+hantavirus hemorrhagic fever with renal syndrome,2,2,1,48,article_title,False,False
+human monocytic ehrlichiosis,2,1,1,28,article_keyword|article_title,False,False
+infection by cryptosporidium,2,2,1,28,article_title,False,False
+late syphilis,2,2,1,13,raw_case_text,False,False
+listeria infection,2,2,1,18,raw_case_text,False,False
+louping ill,2,1,1,11,raw_case_text,False,False
+mibe,2,2,1,4,raw_case_text,False,True
+milker's nodule,2,1,1,15,article_title|raw_case_text,False,False
+new world cutaneous leishmaniasis,2,2,1,33,article_title,False,False
+piedra,2,1,1,6,raw_case_text,False,False
+pinworm infection,2,2,1,17,raw_case_text,False,False
+plasmodium ovale malaria,2,2,1,24,article_title,False,False
+powassan encephalitis,2,1,1,21,article_title|raw_case_text,False,False
+pthirus pubis infestation,2,2,1,25,raw_case_text,False,False
+ramsey hunt syndrome,2,1,1,20,article_title|raw_case_text,False,False
+roseola infantum,2,1,1,16,article_keyword|article_title,False,False
+swine influenza,2,1,1,15,article_title|raw_case_text,False,False
+tick-borne relapsing fever,2,1,1,26,article_title|raw_case_text,False,False
+typhus fever,2,2,1,12,raw_case_text,False,False
+ulceroglandular tularemia,2,1,1,25,article_title|raw_case_text,False,False
+undulant fever,2,2,1,14,raw_case_text,False,False
+urogenital tuberculosis,2,2,1,23,article_keyword|raw_case_text,False,False
+2019 novel coronavirus (2019-ncov),1,1,1,34,raw_case_text,False,False
+acanthamoeba encephalitis,1,1,1,25,article_title,False,False
+actinomycotic infection,1,1,1,23,article_title,False,False
+acute miliary tuberculosis,1,1,1,26,article_title,False,False
+acute rheumatic myocarditis,1,1,1,27,article_title,False,False
+african tick-bite fever,1,1,1,23,article_title,False,False
+american trypanosomiasis,1,1,1,24,raw_case_text,False,False
+anaerobic pneumonia,1,1,1,19,article_title,False,False
+ascaris lumbricoides infection,1,1,1,30,article_title,False,False
+avian flu,1,1,1,9,raw_case_text,False,False
+bordetella infection,1,1,1,20,article_keyword,False,False
+bubonic plague,1,1,1,14,raw_case_text,False,False
+buruli ulcer disease,1,1,1,20,raw_case_text,False,False
+campylobacteriosis,1,1,1,18,article_keyword,False,False
+cardiac tuberculosis,1,1,1,20,article_keyword,False,False
+chronic wasting disease,1,1,1,23,raw_case_text,False,False
+classical dengue,1,1,1,16,raw_case_text,False,False
+conjunctival kaposi's sarcoma,1,1,1,29,article_title,False,False
+cutaneous schistosomiasis,1,1,1,25,raw_case_text,False,False
+dermatomycosis,1,1,1,14,raw_case_text,False,False
+dermatophytic onychomycosis,1,1,1,27,raw_case_text,False,False
+early congenital syphilis,1,1,1,25,raw_case_text,False,False
+ebola hemorrhagic fever,1,1,1,23,raw_case_text,False,False
+echinococcus granulosus infection,1,1,1,33,raw_case_text,False,False
+epidemic encephalitis,1,1,1,21,raw_case_text,False,False
+esophageal thrush,1,1,1,17,raw_case_text,False,False
+fasciola hepatica infection,1,1,1,27,article_title,False,False
+fifth disease,1,1,1,13,raw_case_text,False,False
+fungal infectious disease,1,1,1,25,raw_case_text,False,False
+generalized tuberculosis,1,1,1,24,raw_case_text,False,False
+gerstmann-straussler-scheinker disease,1,1,1,38,raw_case_text,False,False
+gonococcal ophthalmia neonatorum,1,1,1,32,raw_case_text,False,False
+gram-negative pneumonia,1,1,1,23,raw_case_text,False,False
+granuloma trichophyticum,1,1,1,24,raw_case_text,False,False
+granulomatous amoebic encephalitis,1,1,1,34,raw_case_text,False,False
+hdl1,1,1,1,4,raw_case_text,False,True
+helminth infection,1,1,1,18,article_title,False,False
+hospital fever,1,1,1,14,raw_case_text,False,False
+infection by babesia,1,1,1,20,raw_case_text,False,False
+infection by listeria monocytogenes,1,1,1,35,article_title,False,False
+infection by strongyloides,1,1,1,26,raw_case_text,False,False
+israeli spotted fever,1,1,1,21,raw_case_text,False,False
+late neurosyphilis,1,1,1,18,article_keyword,False,False
+liver flukes,1,1,1,12,raw_case_text,False,False
+louse infestation,1,1,1,17,raw_case_text,False,False
+lymphocytic meningoencephalitis,1,1,1,31,raw_case_text,False,False
+marburg hemorrhagic fever,1,1,1,25,raw_case_text,False,False
+marburg virus disease,1,1,1,21,raw_case_text,False,False
+morbilli,1,1,1,8,raw_case_text,False,False
+multifocal epithelial hyperplasia,1,1,1,33,raw_case_text,False,False
+mycoplasmal pneumonia,1,1,1,21,raw_case_text,False,False
+neonatal candidiasis,1,1,1,20,article_keyword,False,False
+nephropathia epidemica,1,1,1,22,raw_case_text,False,False
+neurological lyme disease,1,1,1,25,article_title,False,False
+opportunistic mycoses,1,1,1,21,raw_case_text,False,False
+opportunistic mycosis,1,1,1,21,raw_case_text,False,False
+ornithosis,1,1,1,10,raw_case_text,False,False
+paratyphoid a,1,1,1,13,raw_case_text,False,False
+paratyphoid b,1,1,1,13,raw_case_text,False,False
+paratyphoid c,1,1,1,13,raw_case_text,False,False
+plantar wart,1,1,1,12,raw_case_text,False,False
+plasmodium malariae malaria,1,1,1,27,raw_case_text,False,False
+pneumonia due to klebsiella pneumoniae,1,1,1,38,raw_case_text,False,False
+pontiac fever,1,1,1,13,raw_case_text,False,False
+post kala-azar dermal leishmaniasis,1,1,1,35,article_keyword,False,False
+pseudocowpox,1,1,1,12,article_title,False,False
+pulmonary kaposi's sarcoma,1,1,1,26,raw_case_text,False,False
+rhino-sinusitis,1,1,1,15,raw_case_text,False,False
+sandfly fever,1,1,1,13,raw_case_text,False,False
+sarcocystosis,1,1,1,13,raw_case_text,False,False
+sarcosporidiosis,1,1,1,16,raw_case_text,False,False
+scalp ringworm,1,1,1,14,raw_case_text,False,False
+schistosoma haematobium infection,1,1,1,33,article_title,False,False
+sixth disease,1,1,1,13,article_keyword,False,False
+sleeping sickness,1,1,1,17,raw_case_text,False,False
+suppurative apical periodontitis,1,1,1,32,raw_case_text,False,False
+trichomonas infection,1,1,1,21,raw_case_text,False,False
+trichuris trichiura infection,1,1,1,29,article_title,False,False
+tropical spastic paraparesis,1,1,1,28,raw_case_text,False,False
+tuberculosis of ureter,1,1,1,22,raw_case_text,False,False
+tuberculous epididymitis,1,1,1,24,raw_case_text,False,False
+tungiasis,1,1,1,9,raw_case_text,False,False
+typhoidal tularemia,1,1,1,19,raw_case_text,False,False
+viral esophagitis,1,1,1,17,article_keyword,False,False
+viral gastritis,1,1,1,15,raw_case_text,False,False
+viral laryngitis,1,1,1,16,raw_case_text,False,False
+visceral larva migrans,1,1,1,22,article_keyword,False,False
+whitmore's disease,1,1,1,18,article_title,False,False
+worm infection,1,1,1,14,raw_case_text,False,False
+yaba,1,1,1,4,raw_case_text,False,True
+zikv congenital infection,1,1,1,25,raw_case_text,False,False

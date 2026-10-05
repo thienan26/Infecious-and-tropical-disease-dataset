@@ -1,0 +1,387 @@
+﻿concept_id,disease,candidates,metadata_only,metadata_only_fraction
+DOID:9988,tertiary neurosyphilis,1,1,1.0
+DOID:0050251,coenurosis,1,1,1.0
+DOID:2832,geotrichosis,11,11,1.0
+DOID:0050202,Lujo hemorrhagic fever,5,5,1.0
+DOID:873,anaerobic pneumonia,1,1,1.0
+DOID:6297,viral esophagitis,1,1,1.0
+DOID:404,gastrointestinal tuberculosis,7,7,1.0
+DOID:2366,West Nile fever,15,15,1.0
+DOID:9880,cardiovascular syphilis,2,2,1.0
+DOID:0081014,non-severe COVID-19,2,2,1.0
+DOID:0060570,cardiac tuberculosis,1,1,1.0
+DOID:11101,trench fever,5,5,1.0
+DOID:12386,balantidiasis,3,3,1.0
+DOID:13386,gastrointestinal anthrax,7,7,1.0
+DOID:13565,neuroaspergillosis,4,4,1.0
+DOID:13622,campylobacteriosis,1,1,1.0
+DOID:14559,anaerobic meningitis,2,2,1.0
+DOID:0050495,exanthema subitum,4,4,1.0
+DOID:0050035,African tick-bite fever,1,1,1.0
+DOID:0050026,human monocytic ehrlichiosis,1,1,1.0
+DOID:0050050,Japanese spotted fever,3,3,1.0
+DOID:9577,neonatal candidiasis,1,1,1.0
+DOID:0081463,recurrent respiratory papillomatosis,12,11,0.9166666666666666
+DOID:14472,hantavirus pulmonary syndrome,10,9,0.9
+DOID:0050268,ophthalmomyiasis,14,12,0.8571428571428571
+DOID:4271,microsporidiosis,7,6,0.8571428571428571
+DOID:14068,blackwater fever,6,5,0.8333333333333334
+DOID:2149,urogenital tuberculosis,16,13,0.8125
+DOID:9155,mucocutaneous leishmaniasis,21,17,0.8095238095238095
+DOID:7332,esophageal tuberculosis,5,4,0.8
+DOID:0050598,extrapulmonary tuberculosis,64,51,0.796875
+DOID:402,oral tuberculosis,8,6,0.75
+DOID:11379,gnathomiasis,4,3,0.75
+DOID:13444,glanders,4,3,0.75
+DOID:13523,loiasis,4,3,0.75
+DOID:1638,central nervous system tuberculosis,18,13,0.7222222222222222
+DOID:11949,Creutzfeldt-Jakob disease,72,52,0.7222222222222222
+DOID:2929,Newcastle disease,7,5,0.7142857142857143
+DOID:0050256,angiostrongyliasis,7,5,0.7142857142857143
+DOID:0080848,long COVID,65,45,0.6923076923076923
+DOID:1252,trichuriasis,3,2,0.6666666666666666
+DOID:9305,splenic tuberculosis,6,4,0.6666666666666666
+DOID:0050597,intestinal schistosomiasis,3,2,0.6666666666666666
+DOID:11360,phlebotomus fever,3,2,0.6666666666666666
+DOID:0070344,ocular tuberculosis,9,6,0.6666666666666666
+DOID:12148,alveolar echinococcosis,21,14,0.6666666666666666
+DOID:0050289,fusariosis,11,7,0.6363636363636364
+DOID:8743,erythema infectiosum,8,5,0.625
+DOID:13336,congenital toxoplasmosis,24,15,0.625
+DOID:1733,cryptosporidiosis,16,10,0.625
+DOID:643,progressive multifocal leukoencephalopathy,77,48,0.6233766233766234
+DOID:0050290,trichosporonosis,5,3,0.6
+DOID:3482,plague,12,7,0.5833333333333334
+DOID:1082,dirofilariasis,14,8,0.5714285714285714
+DOID:401,multidrug-resistant tuberculosis,21,12,0.5714285714285714
+DOID:14095,boutonneuse fever,7,4,0.5714285714285714
+DOID:2058,chronic mucocutaneous candidiasis,27,15,0.5555555555555556
+DOID:11285,tick paralysis,9,5,0.5555555555555556
+DOID:9146,visceral leishmaniasis,83,45,0.5421686746987951
+DOID:2272,vulvovaginal candidiasis,13,7,0.5384615384615384
+DOID:1639,skeletal tuberculosis,15,8,0.5333333333333333
+DOID:11262,ornithosis,25,13,0.52
+DOID:1564,fungal infectious disease,288,149,0.5173611111111112
+DOID:0050599,abdominal tuberculosis,33,17,0.5151515151515151
+DOID:14325,mixed malaria,2,1,0.5
+DOID:11079,leech infestation,14,7,0.5
+DOID:11080,myiasis,76,38,0.5
+DOID:0050246,granulomatous amebic encephalitis,4,2,0.5
+DOID:5154,borna disease,6,3,0.5
+DOID:10080,sparganosis,12,6,0.5
+DOID:10074,hymenolepiasis,2,1,0.5
+DOID:4952,postpoliomyelitis syndrome,2,1,0.5
+DOID:10039,late congenital syphilis,2,1,0.5
+DOID:13226,oculoglandular tularemia,2,1,0.5
+DOID:12287,Crimean-Congo hemorrhagic fever,8,4,0.5
+DOID:13921,bacterial esophagitis,2,1,0.5
+DOID:13722,neuroschistosomiasis,4,2,0.5
+DOID:407,hepatic tuberculosis,12,6,0.5
+DOID:0050518,Ross River fever,2,1,0.5
+DOID:0050135,subcutaneous mycosis,4,2,0.5
+DOID:11574,streptococcal meningitis,4,2,0.5
+DOID:11337,Lemierre's syndrome,59,29,0.4915254237288136
+DOID:885,fascioliasis,19,9,0.47368421052631576
+DOID:1495,cystic echinococcosis,73,34,0.4657534246575342
+DOID:9801,tuberculous peritonitis,26,12,0.46153846153846156
+DOID:2312,nocardiosis,91,42,0.46153846153846156
+DOID:14115,toxic shock syndrome,82,37,0.45121951219512196
+DOID:8736,smallpox,20,9,0.45
+DOID:9699,ophthalmia neonatorum,9,4,0.4444444444444444
+DOID:12385,shigellosis,9,4,0.4444444444444444
+DOID:0081012,critical COVID-19,9,4,0.4444444444444444
+DOID:12662,paracoccidioidomycosis,43,19,0.4418604651162791
+DOID:4962,pericardial tuberculosis,16,7,0.4375
+DOID:4492,avian influenza,16,7,0.4375
+DOID:14067,Plasmodium falciparum malaria,39,17,0.4358974358974359
+DOID:9111,cutaneous leishmaniasis,58,25,0.43103448275862066
+DOID:9856,congenital syphilis,35,15,0.42857142857142855
+DOID:10027,tabes dorsalis,7,3,0.42857142857142855
+DOID:12206,dengue hemorrhagic fever,31,13,0.41935483870967744
+DOID:11258,cat-scratch disease,24,10,0.4166666666666667
+DOID:5052,melioidosis,48,20,0.4166666666666667
+DOID:456,ascariasis,22,9,0.4090909090909091
+DOID:0080159,Cryptococcal meningitis,67,27,0.40298507462686567
+DOID:5435,variant Creutzfeldt-Jakob disease,5,2,0.4
+DOID:10112,sleeping sickness,5,2,0.4
+DOID:0050352,foodborne botulism,5,2,0.4
+DOID:12919,Plasmodium ovale malaria,5,2,0.4
+DOID:8478,actinomycosis,124,49,0.3951612903225806
+DOID:0081013,severe COVID-19,206,81,0.3932038834951456
+DOID:9537,Lassa fever,18,7,0.3888888888888889
+DOID:0060859,salmonellosis,44,17,0.38636363636363635
+DOID:12211,filarial elephantiasis,8,3,0.375
+DOID:11608,fungal meningitis,8,3,0.375
+DOID:10699,paragonimiasis,8,3,0.375
+DOID:3385,bacterial vaginosis,16,6,0.375
+DOID:14049,phaeohyphomycosis,27,10,0.37037037037037035
+DOID:9861,miliary tuberculosis,135,50,0.37037037037037035
+DOID:0080176,meningococcal meningitis,11,4,0.36363636363636365
+DOID:1496,echinococcosis,236,85,0.3601694915254237
+DOID:11573,listeriosis,25,9,0.36
+DOID:13078,eumycotic mycetoma,14,5,0.35714285714285715
+DOID:3292,mpox,59,21,0.3559322033898305
+DOID:11168,anogenital venereal wart,59,21,0.3559322033898305
+DOID:0060000,infective endocarditis,492,174,0.35365853658536583
+DOID:14069,cerebral malaria,17,6,0.35294117647058826
+DOID:12978,Plasmodium vivax malaria,17,6,0.35294117647058826
+DOID:10458,legionellosis,26,9,0.34615384615384615
+DOID:9065,leishmaniasis,189,64,0.3386243386243386
+DOID:1023,borderline leprosy,3,1,0.3333333333333333
+DOID:0050242,primary amebic meningoencephalitis,6,2,0.3333333333333333
+DOID:5501,Pediculus humanus capitis infestation,3,1,0.3333333333333333
+DOID:10113,trypanosomiasis,12,4,0.3333333333333333
+DOID:0080827,human cytomegalovirus infection,3,1,0.3333333333333333
+DOID:1394,urinary schistosomiasis,15,5,0.3333333333333333
+DOID:14484,sporotrichosis,48,16,0.3333333333333333
+DOID:1562,chromoblastomycosis,15,5,0.3333333333333333
+DOID:0050515,paralytic poliomyelitis,3,1,0.3333333333333333
+DOID:2112,cystoisosporiasis,3,1,0.3333333333333333
+DOID:9123,eczema herpeticum,6,2,0.3333333333333333
+DOID:0050134,cutaneous mycosis,3,1,0.3333333333333333
+DOID:0050025,human granulocytic anaplasmosis,6,2,0.3333333333333333
+DOID:13282,intestinal tuberculosis,37,12,0.32432432432432434
+DOID:13564,aspergillosis,359,116,0.3231197771587744
+DOID:1474,aggressive periodontitis,31,10,0.3225806451612903
+DOID:13166,allergic bronchopulmonary aspergillosis,44,14,0.3181818181818182
+DOID:9060,pityriasis versicolor,19,6,0.3157894736842105
+DOID:0050073,invasive aspergillosis,67,21,0.31343283582089554
+DOID:934,viral infectious disease,844,259,0.3068720379146919
+DOID:2755,Mycobacterium avium complex disease,75,23,0.30666666666666664
+DOID:635,acquired immunodeficiency syndrome,786,241,0.30661577608142493
+DOID:9181,amebiasis,30,9,0.3
+DOID:8867,molluscum contagiosum,40,12,0.3
+DOID:9210,Ramsay Hunt syndrome,10,3,0.3
+DOID:8632,Kaposi's sarcoma,154,46,0.2987012987012987
+DOID:0050523,adult T-cell leukemia/lymphoma,27,8,0.2962962962962963
+DOID:9790,toxocariasis,31,9,0.2903225806451613
+DOID:10079,cysticercosis,138,40,0.2898550724637681
+DOID:883,parasitic helminthiasis infectious disease,7,2,0.2857142857142857
+DOID:8970,subacute sclerosing panencephalitis,14,4,0.2857142857142857
+DOID:11917,tinea cruris,7,2,0.2857142857142857
+DOID:0050136,systemic mycosis,7,2,0.2857142857142857
+DOID:7426,cutaneous anthrax,7,2,0.2857142857142857
+DOID:8485,mucormycosis,314,89,0.28343949044585987
+DOID:12053,cryptococcosis,149,42,0.28187919463087246
+DOID:9159,gas gangrene,36,10,0.2777777777777778
+DOID:11077,brucellosis,267,74,0.27715355805243447
+DOID:649,prion disease,44,12,0.2727272727272727
+DOID:11104,spotted fever,55,15,0.2727272727272727
+DOID:10955,strongyloidiasis,33,9,0.2727272727272727
+DOID:14374,norwegian scabies,15,4,0.26666666666666666
+DOID:9643,babesiosis,34,9,0.2647058823529412
+DOID:1080,filariasis,42,11,0.2619047619047619
+DOID:10755,petrositis,4,1,0.25
+DOID:1498,cholera,56,14,0.25
+DOID:0050288,penicilliosis,4,1,0.25
+DOID:11572,Listeria meningitis,4,1,0.25
+DOID:0060345,bacillary angiomatosis,4,1,0.25
+DOID:0050153,pulmonary aspergilloma,8,2,0.25
+DOID:0050353,wound botulism,4,1,0.25
+DOID:8607,herpetic whitlow,4,1,0.25
+DOID:0080180,Zika virus congenital syndrome,4,1,0.25
+DOID:0060645,chronic recurrent multifocal osteomyelitis,45,11,0.24444444444444444
+DOID:2123,tularemia,21,5,0.23809523809523808
+DOID:1395,schistosomiasis,86,20,0.23255813953488372
+DOID:2945,severe acute respiratory syndrome,2422,553,0.22832369942196531
+DOID:12205,dengue disease,115,26,0.22608695652173913
+DOID:1731,histoplasmosis,178,40,0.2247191011235955
+DOID:4953,poliomyelitis,45,10,0.2222222222222222
+DOID:13034,relapsing fever,9,2,0.2222222222222222
+DOID:11102,bartonellosis,18,4,0.2222222222222222
+DOID:4889,lymph node tuberculosis,28,6,0.21428571428571427
+DOID:9733,renal tuberculosis,14,3,0.21428571428571427
+DOID:4156,primary syphilis,14,3,0.21428571428571427
+DOID:11339,pneumocystosis,203,43,0.21182266009852216
+DOID:1003,pelvic inflammatory disease,77,16,0.2077922077922078
+DOID:10242,ehrlichiosis,29,6,0.20689655172413793
+DOID:2938,Epstein-Barr virus infectious disease,176,36,0.20454545454545456
+DOID:0050133,superficial mycosis,5,1,0.2
+DOID:10718,giardiasis,15,3,0.2
+DOID:7894,mite infestation,5,1,0.2
+DOID:8536,herpes zoster,378,74,0.19576719576719576
+DOID:1508,candidiasis,353,69,0.1954674220963173
+DOID:10844,Japanese encephalitis,42,8,0.19047619047619047
+DOID:12683,vestibular neuronitis,16,3,0.1875
+DOID:13276,Mycoplasma pneumoniae pneumonia,66,12,0.18181818181818182
+DOID:0080711,multisystem inflammatory syndrome in children,133,24,0.18045112781954886
+DOID:0080600,COVID-19,4311,753,0.17466945024356298
+DOID:11256,typhus,83,14,0.1686746987951807
+DOID:2365,West Nile encephalitis,6,1,0.16666666666666666
+DOID:13819,lymphogranuloma venereum,12,2,0.16666666666666666
+DOID:10841,Eastern equine encephalitis,6,1,0.16666666666666666
+DOID:9113,granuloma inguinale,12,2,0.16666666666666666
+DOID:12140,Chagas disease,42,7,0.16666666666666666
+DOID:11336,rhinoscleroma,6,1,0.16666666666666666
+DOID:0050278,basidiobolomycosis,18,3,0.16666666666666666
+DOID:11729,Lyme disease,236,39,0.1652542372881356
+DOID:2409,rhinosporidiosis,13,2,0.15384615384615385
+DOID:13450,coccidioidomycosis,86,13,0.1511627906976744
+DOID:8200,tertiary syphilis,20,3,0.15
+DOID:12155,lymphocytic choriomeningitis,20,3,0.15
+DOID:12179,tinea corporis,27,4,0.14814814814814814
+DOID:2957,pulmonary tuberculosis,564,82,0.1453900709219858
+DOID:4562,subacute bacterial endocarditis,14,2,0.14285714285714285
+DOID:1328,Rift Valley fever,7,1,0.14285714285714285
+DOID:0050481,endemic typhus,7,1,0.14285714285714285
+DOID:3055,paratyphoid fever,7,1,0.14285714285714285
+DOID:12663,blastomycosis,49,7,0.14285714285714285
+DOID:1024,leprosy,127,18,0.14173228346456693
+DOID:4157,secondary syphilis,74,10,0.13513513513513514
+DOID:8568,infectious mononucleosis,105,14,0.13333333333333333
+DOID:1019,osteomyelitis,925,121,0.1308108108108108
+DOID:1025,tuberculoid leprosy,8,1,0.125
+DOID:8913,dermatophytosis,24,3,0.125
+DOID:0040083,Chlamydia pneumonia,8,1,0.125
+DOID:11227,acute hemorrhagic conjunctivitis,8,1,0.125
+DOID:11266,Hantavirus hemorrhagic fever with renal syndrome,8,1,0.125
+DOID:4411,hepatitis E,82,10,0.12195121951219512
+DOID:526,human immunodeficiency virus infectious disease,411,50,0.12165450121654502
+DOID:1586,rheumatic fever,91,11,0.12087912087912088
+DOID:0050052,Rocky Mountain spotted fever,25,3,0.12
+DOID:11976,botulism,34,4,0.11764705882352941
+DOID:11100,Q fever,79,9,0.11392405063291139
+DOID:10887,lepromatous leprosy,27,3,0.1111111111111111
+DOID:0050175,tick-borne encephalitis,27,3,0.1111111111111111
+DOID:0080161,cutaneous candidiasis,9,1,0.1111111111111111
+DOID:13074,tinea unguium,9,1,0.1111111111111111
+DOID:9965,toxoplasmosis,432,47,0.1087962962962963
+DOID:824,periodontitis,397,43,0.10831234256926953
+DOID:9682,yellow fever,28,3,0.10714285714285714
+DOID:0050012,chikungunya,59,6,0.1016949152542373
+DOID:14089,root caries,10,1,0.1
+DOID:9700,bacterial conjunctivitis,20,2,0.1
+DOID:9063,Ritter's disease,10,1,0.1
+DOID:1273,respiratory syncytial virus infectious disease,260,26,0.1
+DOID:0080784,urinary tract infection,929,91,0.09795479009687837
+DOID:399,tuberculosis,3688,353,0.09571583514099784
+DOID:1398,parasitic infectious disease,86,8,0.09302325581395349
+DOID:2297,leptospirosis,143,13,0.09090909090909091
+DOID:10533,viral pneumonia,103,9,0.08737864077669903
+DOID:8659,chickenpox,655,56,0.08549618320610687
+DOID:11263,chlamydia,389,33,0.08483290488431877
+DOID:646,viral encephalitis,119,10,0.08403361344537816
+DOID:8566,herpes simplex,1038,87,0.0838150289017341
+DOID:12403,tinea pedis,12,1,0.08333333333333333
+DOID:13258,typhoid fever,87,7,0.08045977011494253
+DOID:13371,scrub typhus,67,5,0.07462686567164178
+DOID:8672,viral exanthem,14,1,0.07142857142857142
+DOID:4337,tinea capitis,14,1,0.07142857142857142
+DOID:106,pleural tuberculosis,43,3,0.06976744186046512
+DOID:823,periapical periodontitis,174,12,0.06896551724137931
+DOID:8704,genital herpes,29,2,0.06896551724137931
+DOID:4617,periapical granuloma,15,1,0.06666666666666667
+DOID:13760,Pthirus pubis infestation,16,1,0.0625
+DOID:11405,diphtheria,106,6,0.05660377358490566
+DOID:0040085,bacterial sepsis,20,1,0.05
+DOID:0040084,Streptococcus pneumonia,41,2,0.04878048780487805
+DOID:12365,malaria,434,21,0.04838709677419355
+DOID:13272,Klebsiella pneumonia,64,3,0.046875
+DOID:7551,gonorrhea,87,4,0.04597701149425287
+DOID:9531,latent syphilis,22,1,0.045454545454545456
+DOID:216,dental caries,177,8,0.04519774011299435
+DOID:10310,viral meningitis,45,2,0.044444444444444446
+DOID:1116,pertussis,91,4,0.04395604395604396
+DOID:1883,hepatitis C,1489,64,0.042981867024848894
+DOID:9470,bacterial meningitis,148,6,0.04054054054054054
+DOID:8295,scabies,50,2,0.04
+DOID:8469,influenza,944,34,0.036016949152542374
+DOID:0080642,Middle East respiratory syndrome,28,1,0.03571428571428571
+DOID:13146,esophageal candidiasis,57,2,0.03508771929824561
+DOID:10264,mumps,116,4,0.034482758620689655
+DOID:14262,oral candidiasis,206,7,0.03398058252427184
+DOID:4166,syphilis,1233,40,0.032441200324412
+DOID:2562,suppurative periapical periodontitis,62,2,0.03225806451612903
+DOID:8622,measles,191,6,0.031413612565445025
+DOID:11338,tetanus,298,9,0.030201342281879196
+DOID:12549,hepatitis A,534,16,0.0299625468164794
+DOID:11269,chronic apical periodontitis,43,1,0.023255813953488372
+DOID:0050152,aspiration pneumonia,396,9,0.022727272727272728
+DOID:2043,hepatitis B,2444,50,0.020458265139116204
+DOID:8781,rubella,331,6,0.01812688821752266
+DOID:11260,rabies,60,1,0.016666666666666666
+DOID:1884,viral hepatitis,472,6,0.012711864406779662
+DOID:10457,Legionnaires' disease,309,2,0.006472491909385114
+DOID:874,bacterial pneumonia,190,1,0.005263157894736842
+DOID:0050125,dengue shock syndrome,2,0,0.0
+DOID:0050118,La Crosse encephalitis,6,0,0.0
+DOID:0050043,Israeli tick typhus,1,0,0.0
+DOID:1260,parametritis,2,0,0.0
+DOID:1251,tuberculous epididymitis,1,0,0.0
+DOID:11315,African histoplasmosis,1,0,0.0
+DOID:11302,cercarial dermatitis,1,0,0.0
+DOID:11265,trachoma,5,0,0.0
+DOID:0050096,tinea barbae,1,0,0.0
+DOID:9640,sarcocystosis,1,0,0.0
+DOID:11693,acute apical periodontitis,12,0,0.0
+DOID:11678,onchocerciasis,3,0,0.0
+DOID:0070528,cepacia syndrome,4,0,0.0
+DOID:0070702,measles inclusion body encephalitis,2,0,0.0
+DOID:0050596,taeniasis,3,0,0.0
+DOID:11990,ulceroglandular tularemia,1,0,0.0
+DOID:11165,common wart,2,0,0.0
+DOID:1218,echinostomiasis,1,0,0.0
+DOID:0050279,conidiobolomycosis,3,0,0.0
+DOID:1563,dermatomycosis,1,0,0.0
+DOID:11103,rickettsialpox,2,0,0.0
+DOID:14324,Plasmodium malariae malaria,1,0,0.0
+DOID:10881,"hand, foot and mouth disease",11,0,0.0
+DOID:10845,St. Louis encephalitis,4,0,0.0
+DOID:10843,Western equine encephalitis,4,0,0.0
+DOID:10883,herpangina,4,0,0.0
+DOID:13778,chancroid,7,0,0.0
+DOID:13775,plantar wart,1,0,0.0
+DOID:13767,clonorchiasis,2,0,0.0
+DOID:13147,fungal esophagitis,2,0,0.0
+DOID:13036,tick-borne relapsing fever,1,0,0.0
+DOID:13368,tinea profunda,3,0,0.0
+DOID:13431,bejel,1,0,0.0
+DOID:13521,tetanus neonatorum,3,0,0.0
+DOID:13026,lobomycosis,5,0,0.0
+DOID:2113,coccidiosis,7,0,0.0
+DOID:1947,trichomoniasis,7,0,0.0
+DOID:0050354,infant botulism,1,0,0.0
+DOID:2047,hepatitis D,11,0,0.0
+DOID:0050383,typhoidal tularemia,1,0,0.0
+DOID:0050456,Buruli ulcer disease,1,0,0.0
+DOID:0050488,early congenital syphilis,1,0,0.0
+DOID:10371,yaws,1,0,0.0
+DOID:10250,louping ill,1,0,0.0
+DOID:217,enamel caries,5,0,0.0
+DOID:2327,viral gastritis,1,0,0.0
+DOID:0050433,fatal familial insomnia,2,0,0.0
+DOID:10459,common cold,72,0,0.0
+DOID:10461,dentin caries,3,0,0.0
+DOID:10773,bubonic plague,1,0,0.0
+DOID:10035,asymptomatic neurosyphilis,2,0,0.0
+DOID:0090103,Huntington's disease-like 1,1,0,0.0
+DOID:4325,Ebola virus disease,21,0,0.0
+DOID:4327,Marburg hemorrhagic fever,2,0,0.0
+DOID:4109,tick infestation,3,0,0.0
+DOID:4249,Gerstmann-Straussler-Scheinker syndrome,1,0,0.0
+DOID:3733,theileriasis,1,0,0.0
+DOID:3985,ostertagiasis,1,0,0.0
+DOID:3436,viral laryngitis,1,0,0.0
+DOID:2473,opportunistic mycosis,2,0,0.0
+DOID:321,HTLV-1-associated myelopathy/tropical spastic paraparesis,6,0,0.0
+DOID:3298,vaccinia,16,0,0.0
+DOID:3530,chronic wasting disease,1,0,0.0
+DOID:5434,scrapie,1,0,0.0
+DOID:7033,anisakiasis,8,0,0.0
+DOID:7457,enterobiasis,2,0,0.0
+DOID:8596,scarlet fever,11,0,0.0
+DOID:8481,rheumatic myocarditis,1,0,0.0
+DOID:827,ureter tuberculosis,1,0,0.0
+DOID:5362,focal epithelial hyperplasia,5,0,0.0
+DOID:648,kuru,3,0,0.0
+DOID:5502,lice infestation,12,0,0.0
+DOID:8729,milker's nodule,1,0,0.0
+DOID:9784,trichinosis,3,0,0.0
+DOID:9909,hordeolum,8,0,0.0
+DOID:8912,tinea nigra,2,0,0.0
+DOID:8956,cowpox,1,0,0.0
+DOID:0050150,Pontiac fever,1,0,0.0
+DOID:0050179,Powassan encephalitis,1,0,0.0
+DOID:0050201,nephropathia epidemica,1,0,0.0
+DOID:0050211,swine influenza,1,0,0.0
+DOID:0050266,tungiasis,1,0,0.0

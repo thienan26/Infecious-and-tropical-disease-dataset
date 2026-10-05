@@ -1,17 +1,19 @@
-# Discover diseases thực sự xuất hiện trong MultiCaRe
-# sử dụng data/normalized/cases.parquet
-# kqua: reports/scope/disease_catalog.parquet
-
-from collections import (
-    Counter,
-    defaultdict,
-)
-
+from collections import Counter
 from pathlib import Path
-import ahocorasick
+
 import pandas as pd
 from tqdm import tqdm
 
+from matching_utils import (
+    as_list,
+    build_matcher,
+    find_matches,
+)
+
+
+# =========================================================
+# LOAD DATA
+# =========================================================
 
 KB = pd.read_parquet(
     "taxonomy/"
@@ -29,255 +31,248 @@ ARTICLES = pd.read_parquet(
 )
 
 
-MIN_ALIAS_LENGTH = 4
+# =========================================================
+# BUILD THE SAME MATCHER USED BY STEP 15
+# =========================================================
 
-
-def values_to_text(value):
-
-    if value is None:
-        return ""
-
-    if isinstance(
-        value,
-        (list, tuple),
-    ):
-
-        return " ".join(
-            str(x)
-            for x in value
-            if x is not None
-        )
-
-    # PyArrow/Pandas sometimes
-    # converts lists to array-like values.
-    if hasattr(
-        value,
-        "tolist",
-    ):
-
-        try:
-            x = value.tolist()
-
-            if isinstance(x, list):
-                return " ".join(
-                    str(v)
-                    for v in x
-                )
-        except Exception:
-            pass
-
-    return str(value)
-
-
-alias_map = defaultdict(
-    set
+matcher = build_matcher(
+    KB
 )
 
 
-for row in KB.itertuples():
+# =========================================================
+# ARTICLE LOOKUP
+# =========================================================
 
-    # Do not use the infectious
-    # root itself as a diagnosis.
-    if getattr(
-        row,
-        "is_scope_root",
-        False,
-    ):
-        continue
-
-    names = [
-        row.disease,
-        *row.aliases,
-    ]
-
-    for alias in names:
-
-        alias = (
-            str(alias)
-            .strip()
-            .lower()
-        )
-
-        if (
-            len(alias)
-            >= MIN_ALIAS_LENGTH
-        ):
-
-            alias_map[
-                alias
-            ].add(
-                row.concept_id
-            )
+article_lookup = {}
 
 
-automaton = (
-    ahocorasick.Automaton()
-)
-
-
-for alias, concept_ids in (
-    alias_map.items()
+for row in ARTICLES.itertuples(
+    index=False
 ):
 
-    automaton.add_word(
-        alias,
-        (
-            alias,
-            tuple(
-                concept_ids
-            ),
-        ),
-    )
-
-
-automaton.make_automaton()
-
-
-def find_concepts(text):
-
-    if not isinstance(
-        text,
-        str,
-    ):
-        return []
-
-    text = text.lower()
-
-    found = []
-
-    for end_index, payload in (
-        automaton.iter(text)
-    ):
-
-        alias, concept_ids = (
-            payload
-        )
-
-        start = (
-            end_index
-            - len(alias)
-            + 1
-        )
-
-        stop = end_index + 1
-
-        # Whole-word-ish boundaries.
-        if (
-            start > 0
-            and text[
-                start - 1
-            ].isalnum()
-        ):
-            continue
-
-        if (
-            stop < len(text)
-            and text[
-                stop
-            ].isalnum()
-        ):
-            continue
-
-        found.extend(
-            concept_ids
-        )
-
-    return found
-
-
-article_text = {}
-
-
-for row in ARTICLES.itertuples():
-
-    text = " ".join([
-        values_to_text(
-            getattr(
-                row,
-                "title",
-                "",
-            )
-        ),
-
-        values_to_text(
-            getattr(
-                row,
-                "keywords",
-                "",
-            )
-        ),
-
-        values_to_text(
-            getattr(
-                row,
-                "mesh_terms",
-                "",
-            )
-        ),
-    ])
-
-    article_text[
+    article_lookup[
         str(row.article_id)
-    ] = text
+    ] = {
+        "title":
+            row.title
+            if isinstance(
+                row.title,
+                str,
+            )
+            else "",
 
+        "keywords":
+            as_list(
+                row.keywords
+            ),
+
+        "mesh_terms":
+            as_list(
+                row.mesh_terms
+            ),
+    }
+
+
+# =========================================================
+# COUNTERS
+# =========================================================
 
 raw_mentions = Counter()
+
 candidate_cases = Counter()
 
 text_case_counts = Counter()
+
 metadata_case_counts = Counter()
 
 
+# =========================================================
+# DISCOVER
+# =========================================================
+
 for row in tqdm(
-    CASES.itertuples(),
+    CASES.itertuples(
+        index=False
+    ),
     total=len(CASES),
 ):
 
-    text_matches = find_concepts(
+    case_text = (
         row.raw_case_text
+        if isinstance(
+            row.raw_case_text,
+            str,
+        )
+        else ""
     )
 
-    metadata_matches = (
-        find_concepts(
-            article_text.get(
-                str(
-                    row.article_id
-                ),
-                "",
-            )
+
+    article_id = (
+        str(row.article_id)
+        if row.article_id
+        is not None
+        else None
+    )
+
+
+    article = article_lookup.get(
+        article_id,
+        {
+            "title": "",
+            "keywords": [],
+            "mesh_terms": [],
+        },
+    )
+
+
+    # -----------------------------------------------------
+    # RAW CASE TEXT
+    # -----------------------------------------------------
+
+    text_matches = find_matches(
+        matcher,
+        case_text,
+        field="raw_case_text",
+    )
+
+
+    # -----------------------------------------------------
+    # ARTICLE TITLE
+    # -----------------------------------------------------
+
+    metadata_matches = []
+
+
+    metadata_matches.extend(
+        find_matches(
+            matcher,
+            article[
+                "title"
+            ],
+            field="article_title",
         )
     )
 
+
+    # -----------------------------------------------------
+    # ARTICLE KEYWORDS
+    # -----------------------------------------------------
+
+    for index, keyword in enumerate(
+        article[
+            "keywords"
+        ]
+    ):
+
+        if keyword is None:
+            continue
+
+
+        metadata_matches.extend(
+            find_matches(
+                matcher,
+                str(keyword),
+                field="article_keyword",
+                field_item_index=index,
+            )
+        )
+
+
+    # -----------------------------------------------------
+    # MeSH TERMS
+    # -----------------------------------------------------
+
+    for index, mesh in enumerate(
+        article[
+            "mesh_terms"
+        ]
+    ):
+
+        if mesh is None:
+            continue
+
+
+        metadata_matches.extend(
+            find_matches(
+                matcher,
+                str(mesh),
+                field="article_mesh",
+                field_item_index=index,
+            )
+        )
+
+
+    # =====================================================
+    # COUNT OCCURRENCES
+    # =====================================================
+
+    text_concepts = [
+        match[
+            "concept_id"
+        ]
+        for match
+        in text_matches
+    ]
+
+
+    metadata_concepts = [
+        match[
+            "concept_id"
+        ]
+        for match
+        in metadata_matches
+    ]
+
+
     raw_mentions.update(
-        text_matches
-        + metadata_matches
+        text_concepts
     )
+
+    raw_mentions.update(
+        metadata_concepts
+    )
+
+
+    # =====================================================
+    # COUNT UNIQUE CASES PER CONCEPT
+    # =====================================================
 
     text_unique = set(
-        text_matches
+        text_concepts
     )
 
+
     metadata_unique = set(
-        metadata_matches
+        metadata_concepts
     )
+
 
     all_unique = (
         text_unique
-        | metadata_unique
+        |
+        metadata_unique
     )
+
 
     candidate_cases.update(
         all_unique
     )
 
+
     text_case_counts.update(
         text_unique
     )
+
 
     metadata_case_counts.update(
         metadata_unique
     )
 
+
+# =========================================================
+# BUILD CATALOG
+# =========================================================
 
 catalog = KB.copy()
 
@@ -285,8 +280,12 @@ catalog = KB.copy()
 catalog[
     "raw_mentions"
 ] = (
-    catalog["concept_id"]
-    .map(raw_mentions)
+    catalog[
+        "concept_id"
+    ]
+    .map(
+        raw_mentions
+    )
     .fillna(0)
     .astype(int)
 )
@@ -295,8 +294,12 @@ catalog[
 catalog[
     "candidate_cases"
 ] = (
-    catalog["concept_id"]
-    .map(candidate_cases)
+    catalog[
+        "concept_id"
+    ]
+    .map(
+        candidate_cases
+    )
     .fillna(0)
     .astype(int)
 )
@@ -305,8 +308,12 @@ catalog[
 catalog[
     "text_candidate_cases"
 ] = (
-    catalog["concept_id"]
-    .map(text_case_counts)
+    catalog[
+        "concept_id"
+    ]
+    .map(
+        text_case_counts
+    )
     .fillna(0)
     .astype(int)
 )
@@ -315,17 +322,26 @@ catalog[
 catalog[
     "metadata_candidate_cases"
 ] = (
-    catalog["concept_id"]
-    .map(metadata_case_counts)
+    catalog[
+        "concept_id"
+    ]
+    .map(
+        metadata_case_counts
+    )
     .fillna(0)
     .astype(int)
 )
 
 
+# =========================================================
+# SAVE
+# =========================================================
+
 OUTPUT = Path(
     "reports/scope/"
     "disease_catalog.parquet"
 )
+
 
 OUTPUT.parent.mkdir(
     parents=True,
@@ -352,6 +368,7 @@ print(
     )
 )
 
+
 print(
     "Observed infectious:",
     int(
@@ -371,4 +388,15 @@ print(
             )
         ).sum()
     )
+)
+
+
+print()
+print(
+    "Saved:",
+    OUTPUT,
+)
+
+print(
+    "FINAL STATUS: PASS"
 )

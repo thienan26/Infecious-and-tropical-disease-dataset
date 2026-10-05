@@ -1,0 +1,38 @@
+{
+  "rule_version": "pre_ai_v002",
+  "candidate_cases": 21646,
+  "structural_survivors": 7639,
+  "pre_ai_rejected": 14089,
+  "pre_ai_eligible": 7557,
+  "silver_accept": 632,
+  "ai_review": 6925,
+  "cases_with_multiple_scope_mentions": 6710,
+  "physical_files_scanned": 139254,
+  "physical_images_checked": 29055,
+  "physical_images_decodable": 29054,
+  "physical_image_failures": 1,
+  "rows_with_duplicate_image_id": 5012,
+  "rows_in_duplicate_case_file_groups": 0,
+  "routing_statuses": {
+    "PRE_AI_REJECT": 14089,
+    "AI_REVIEW": 6925,
+    "SILVER_ACCEPT": 632
+  },
+  "routing_reasons": {
+    "NO_SOURCE_IMAGE": 14007,
+    "NO_DETERMINISTIC_CONFIRMED_TARGET": 4645,
+    "MULTIPLE_SCOPE_DISEASE_MENTIONS": 2244,
+    "SINGLE_HIGH_CONFIDENCE_TARGET": 632,
+    "MULTIPLE_HIGH_CONFIDENCE_TARGETS": 81,
+    "CONTRADICTORY_ASSERTIONS": 36,
+    "NO_DECODABLE_SOURCE_IMAGE": 1
+  },
+  "routing_stages": {
+    "STRUCTURAL_GATE": 14007,
+    "DETERMINISTIC_TRIAGE": 4681,
+    "RAW_TEXT_TRIAGE": 2244,
+    "SILVER_TRIAGE": 632,
+    "DETERMINISTIC_DIAGNOSIS_GATE": 81,
+    "PHYSICAL_IMAGE_GATE": 1
+  }
+}

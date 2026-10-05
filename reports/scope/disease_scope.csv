@@ -3,22 +3,22 @@ DOID:0080600,COVID-19,True,Human Disease Ontology,,unknown,[],14410,4311,3558,30
 DOID:399,tuberculosis,True,Human Disease Ontology,,unknown,[],8024,3688,3335,1102
 DOID:2043,hepatitis B,True,Human Disease Ontology,,unknown,[],3694,2444,2394,156
 DOID:2945,severe acute respiratory syndrome,True,Human Disease Ontology,,unknown,[],6724,2422,1869,1439
-DOID:1883,hepatitis C,True,Human Disease Ontology,,unknown,[],2006,1489,1425,117
+DOID:1883,hepatitis C,True,Human Disease Ontology,,unknown,[],2003,1489,1425,117
 DOID:4166,syphilis,True,Human Disease Ontology,,unknown,[],1904,1233,1193,170
 DOID:8566,herpes simplex,True,Human Disease Ontology,,unknown,[],1256,1038,951,135
 DOID:8469,influenza,True,Human Disease Ontology,,unknown,[],1940,944,910,185
 DOID:0080784,urinary tract infection,True,Human Disease Ontology,,unknown,[],1065,929,838,122
 DOID:1019,osteomyelitis,True,Human Disease Ontology,,unknown,[],1896,925,804,405
-DOID:934,viral infectious disease,True,Human Disease Ontology,,unknown,[],985,845,585,281
+DOID:934,viral infectious disease,True,Human Disease Ontology,,unknown,[],984,844,585,280
 DOID:635,acquired immunodeficiency syndrome,True,Human Disease Ontology,,unknown,[],1253,786,545,346
 DOID:8659,chickenpox,True,Human Disease Ontology,,unknown,[],1054,655,599,135
-DOID:2957,pulmonary tuberculosis,True,Human Disease Ontology,,unknown,[],742,565,482,119
+DOID:2957,pulmonary tuberculosis,True,Human Disease Ontology,,unknown,[],741,564,482,118
 DOID:12549,hepatitis A,True,Human Disease Ontology,,unknown,[],626,534,518,32
 DOID:0060000,infective endocarditis,True,Human Disease Ontology,,unknown,[],737,492,318,247
-DOID:1884,viral hepatitis,True,Human Disease Ontology,,unknown,[],532,478,466,23
-DOID:12365,malaria,True,Human Disease Ontology,True,tropical,[],1222,434,413,142
+DOID:1884,viral hepatitis,True,Human Disease Ontology,,unknown,[],526,472,466,17
+DOID:12365,malaria,True,Human Disease Ontology,True,tropical,[],1221,434,413,142
 DOID:9965,toxoplasmosis,True,Human Disease Ontology,,unknown,[],722,432,385,110
-DOID:526,human immunodeficiency virus infectious disease,True,Human Disease Ontology,,unknown,[],525,411,361,77
+DOID:526,human immunodeficiency virus infectious disease,True,Human Disease Ontology,,unknown,[],524,411,361,76
 DOID:824,periodontitis,True,Human Disease Ontology,,unknown,[],597,397,354,105
 DOID:0050152,aspiration pneumonia,True,Human Disease Ontology,,unknown,[],490,396,387,30
 DOID:11263,chlamydia,True,Human Disease Ontology,,unknown,[],553,389,356,63
@@ -36,7 +36,7 @@ DOID:1496,echinococcosis,True,Human Disease Ontology,True,tropical,[],595,236,15
 DOID:11729,Lyme disease,True,Human Disease Ontology,,unknown,[],441,236,197,78
 DOID:14262,oral candidiasis,True,Human Disease Ontology,,unknown,[],275,206,199,18
 DOID:0081013,severe COVID-19,True,Human Disease Ontology,,unknown,[],259,206,125,101
-DOID:11339,pneumocystosis,True,Human Disease Ontology,,unknown,[],256,204,160,55
+DOID:11339,pneumocystosis,True,Human Disease Ontology,,unknown,[],251,203,160,54
 DOID:8622,measles,True,Human Disease Ontology,,unknown,[],347,191,185,28
 DOID:874,bacterial pneumonia,True,Human Disease Ontology,,unknown,[],217,190,189,3
 DOID:9065,leishmaniasis,True,Human Disease Ontology,True,tropical,[],537,189,125,135
@@ -54,8 +54,8 @@ DOID:0080711,multisystem inflammatory syndrome in children,True,Human Disease On
 DOID:1024,leprosy,True,Human Disease Ontology,True,tropical,[],438,127,109,78
 DOID:8478,actinomycosis,True,Human Disease Ontology,,unknown,[],295,124,75,95
 DOID:646,viral encephalitis,True,Human Disease Ontology,,unknown,[],147,119,109,16
-DOID:12205,dengue disease,True,Human Disease Ontology,,unknown,[],197,116,89,57
 DOID:10264,mumps,True,Human Disease Ontology,,unknown,[],155,116,112,10
+DOID:12205,dengue disease,True,Human Disease Ontology,,unknown,[],196,115,89,56
 DOID:11405,diphtheria,True,Human Disease Ontology,,unknown,[],155,106,100,13
 DOID:8568,infectious mononucleosis,True,Human Disease Ontology,,unknown,[],236,105,91,23
 DOID:10533,viral pneumonia,True,Human Disease Ontology,,unknown,[],117,103,94,11
@@ -67,7 +67,7 @@ DOID:7551,gonorrhea,True,Human Disease Ontology,,unknown,[],121,87,83,7
 DOID:13450,coccidioidomycosis,True,Human Disease Ontology,,unknown,[],241,86,73,46
 DOID:1395,schistosomiasis,True,Human Disease Ontology,True,tropical,[],191,86,66,49
 DOID:1398,parasitic infectious disease,True,Human Disease Ontology,,unknown,[],169,86,78,17
-DOID:11256,typhus,True,Human Disease Ontology,,unknown,[],268,84,69,45
+DOID:11256,typhus,True,Human Disease Ontology,,unknown,[],267,83,69,44
 DOID:9146,visceral leishmaniasis,True,Human Disease Ontology,,unknown,[],160,83,38,65
 DOID:14115,toxic shock syndrome,True,Human Disease Ontology,,unknown,[],212,82,45,44
 DOID:4411,hepatitis E,True,Human Disease Ontology,,unknown,[],144,82,72,26
@@ -83,9 +83,9 @@ DOID:10459,common cold,True,Human Disease Ontology,,unknown,[],78,72,72,1
 DOID:13371,scrub typhus,True,Human Disease Ontology,,unknown,[],255,67,62,35
 DOID:0080159,Cryptococcal meningitis,True,Human Disease Ontology,,unknown,[],116,67,40,44
 DOID:0050073,invasive aspergillosis,True,Human Disease Ontology,,unknown,[],98,67,46,35
-DOID:0050598,extrapulmonary tuberculosis,True,Human Disease Ontology,,unknown,[],73,67,13,56
-DOID:13276,Mycoplasma pneumoniae pneumonia,True,Human Disease Ontology,,unknown,[],89,66,54,16
+DOID:13276,Mycoplasma pneumoniae pneumonia,True,Human Disease Ontology,,unknown,[],87,66,54,16
 DOID:0080848,long COVID,True,Human Disease Ontology,,unknown,[],109,65,20,52
+DOID:0050598,extrapulmonary tuberculosis,True,Human Disease Ontology,,unknown,[],70,64,13,53
 DOID:13272,Klebsiella pneumonia,True,Human Disease Ontology,,unknown,[],69,64,61,5
 DOID:2562,suppurative periapical periodontitis,True,Human Disease Ontology,,unknown,[],73,62,60,7
 DOID:11260,rabies,True,Human Disease Ontology,True,tropical,[],164,60,59,16
@@ -93,8 +93,8 @@ DOID:3292,mpox,True,Human Disease Ontology,,unknown,[],265,59,38,57
 DOID:0050012,chikungunya,True,Human Disease Ontology,True,tropical,[],184,59,53,22
 DOID:11168,anogenital venereal wart,True,Human Disease Ontology,,unknown,[],110,59,38,34
 DOID:11337,Lemierre's syndrome,True,Human Disease Ontology,,unknown,[],107,59,30,50
-DOID:9111,cutaneous leishmaniasis,True,Human Disease Ontology,,unknown,[],96,58,33,37
-DOID:13146,esophageal candidiasis,True,Human Disease Ontology,,unknown,[],70,57,55,7
+DOID:9111,cutaneous leishmaniasis,True,Human Disease Ontology,,unknown,[],95,58,33,37
+DOID:13146,esophageal candidiasis,True,Human Disease Ontology,,unknown,[],69,57,55,7
 DOID:1498,cholera,True,Human Disease Ontology,,unknown,[],211,56,42,34
 DOID:11104,spotted fever,True,Human Disease Ontology,,unknown,[],89,55,40,19
 DOID:8295,scabies,True,Human Disease Ontology,True,tropical,[],153,50,48,25
@@ -103,19 +103,19 @@ DOID:14484,sporotrichosis,True,Human Disease Ontology,,unknown,[],142,48,32,36
 DOID:5052,melioidosis,True,Human Disease Ontology,,unknown,[],139,48,28,40
 DOID:0060645,chronic recurrent multifocal osteomyelitis,True,Human Disease Ontology,,unknown,[],164,45,34,36
 DOID:4953,poliomyelitis,True,Human Disease Ontology,,unknown,[],99,45,35,19
-DOID:0060859,salmonellosis,True,Human Disease Ontology,,unknown,[],56,45,27,21
 DOID:10310,viral meningitis,True,Human Disease Ontology,,unknown,[],47,45,43,3
 DOID:649,prion disease,True,Human Disease Ontology,,unknown,[],78,44,32,19
 DOID:13166,allergic bronchopulmonary aspergillosis,True,Human Disease Ontology,,unknown,[],62,44,30,19
+DOID:0060859,salmonellosis,True,Human Disease Ontology,,unknown,[],55,44,27,20
 DOID:12662,paracoccidioidomycosis,True,Human Disease Ontology,,unknown,[],105,43,24,31
 DOID:106,pleural tuberculosis,True,Human Disease Ontology,,unknown,[],58,43,40,9
 DOID:11269,chronic apical periodontitis,True,Human Disease Ontology,,unknown,[],45,43,42,1
 DOID:12140,Chagas disease,True,Human Disease Ontology,True,tropical,[],112,42,35,22
 DOID:1080,filariasis,True,Human Disease Ontology,,unknown,[],82,42,31,22
 DOID:10844,Japanese encephalitis,True,Human Disease Ontology,,unknown,[],54,42,34,10
-DOID:0040084,Streptococcus pneumonia,True,Human Disease Ontology,,unknown,[],48,42,39,4
-DOID:14067,Plasmodium falciparum malaria,True,Human Disease Ontology,,unknown,[],83,40,22,24
+DOID:0040084,Streptococcus pneumonia,True,Human Disease Ontology,,unknown,[],47,41,39,3
 DOID:8867,molluscum contagiosum,True,Human Disease Ontology,,unknown,[],78,40,28,19
+DOID:14067,Plasmodium falciparum malaria,True,Human Disease Ontology,,unknown,[],81,39,22,23
 DOID:13282,intestinal tuberculosis,True,Human Disease Ontology,,unknown,[],49,37,25,16
 DOID:9159,gas gangrene,True,Human Disease Ontology,,unknown,[],61,36,26,17
 DOID:9856,congenital syphilis,True,Human Disease Ontology,,unknown,[],64,35,20,25
@@ -125,16 +125,16 @@ DOID:10955,strongyloidiasis,True,Human Disease Ontology,,unknown,[],72,33,24,19
 DOID:0050599,abdominal tuberculosis,True,Human Disease Ontology,,unknown,[],42,33,16,19
 DOID:9790,toxocariasis,True,Human Disease Ontology,,unknown,[],62,31,22,19
 DOID:1474,aggressive periodontitis,True,Human Disease Ontology,,unknown,[],55,31,21,18
-DOID:12206,dengue hemorrhagic fever,True,Human Disease Ontology,,unknown,[],39,31,18,15
+DOID:12206,dengue hemorrhagic fever,True,Human Disease Ontology,,unknown,[],38,31,18,15
 DOID:9181,amebiasis,True,Human Disease Ontology,,unknown,[],63,30,21,13
 DOID:10242,ehrlichiosis,True,Human Disease Ontology,,unknown,[],51,29,23,11
 DOID:8704,genital herpes,True,Human Disease Ontology,,unknown,[],51,29,27,5
-DOID:4889,lymph node tuberculosis,True,Human Disease Ontology,,unknown,[],34,29,22,9
 DOID:0080642,Middle East respiratory syndrome,True,Human Disease Ontology,,unknown,[],75,28,27,6
 DOID:9682,yellow fever,True,Human Disease Ontology,,unknown,[],62,28,25,9
-DOID:10887,lepromatous leprosy,True,Human Disease Ontology,,unknown,[],44,28,24,12
+DOID:4889,lymph node tuberculosis,True,Human Disease Ontology,,unknown,[],33,28,22,8
 DOID:0050523,adult T-cell leukemia/lymphoma,True,Human Disease Ontology,,unknown,[],77,27,19,18
 DOID:14049,phaeohyphomycosis,True,Human Disease Ontology,,unknown,[],58,27,17,19
+DOID:10887,lepromatous leprosy,True,Human Disease Ontology,,unknown,[],43,27,24,11
 DOID:2058,chronic mucocutaneous candidiasis,True,Human Disease Ontology,,unknown,[],41,27,12,17
 DOID:12179,tinea corporis,True,Human Disease Ontology,,unknown,[],35,27,23,7
 DOID:0050175,tick-borne encephalitis,True,Human Disease Ontology,,unknown,[],32,27,24,5
@@ -144,7 +144,7 @@ DOID:11573,listeriosis,True,Human Disease Ontology,,unknown,[],58,25,16,17
 DOID:11262,ornithosis,True,Human Disease Ontology,,unknown,[],43,25,12,15
 DOID:0050052,Rocky Mountain spotted fever,True,Human Disease Ontology,,unknown,[],32,25,22,4
 DOID:11258,cat-scratch disease,True,Human Disease Ontology,,unknown,[],44,24,14,14
-DOID:13336,congenital toxoplasmosis,True,Human Disease Ontology,,unknown,[],37,24,9,21
+DOID:13336,congenital toxoplasmosis,True,Human Disease Ontology,,unknown,[],35,24,9,21
 DOID:8913,dermatophytosis,True,Human Disease Ontology,,unknown,[],33,24,21,8
 DOID:456,ascariasis,True,Human Disease Ontology,,unknown,[],52,22,13,16
 DOID:9531,latent syphilis,True,Human Disease Ontology,,unknown,[],26,22,21,2
@@ -160,10 +160,10 @@ DOID:9700,bacterial conjunctivitis,True,Human Disease Ontology,,unknown,[],26,20
 DOID:0040085,bacterial sepsis,True,Human Disease Ontology,,unknown,[],20,20,19,1
 DOID:885,fascioliasis,True,Human Disease Ontology,,unknown,[],29,19,10,14
 DOID:9060,pityriasis versicolor,True,Human Disease Ontology,,unknown,[],27,19,13,7
-DOID:1638,central nervous system tuberculosis,True,Human Disease Ontology,,unknown,[],20,19,5,14
 DOID:9537,Lassa fever,True,Human Disease Ontology,,unknown,[],55,18,11,16
 DOID:0050278,basidiobolomycosis,True,Human Disease Ontology,,unknown,[],47,18,15,15
 DOID:11102,bartonellosis,True,Human Disease Ontology,,unknown,[],24,18,14,7
+DOID:1638,central nervous system tuberculosis,True,Human Disease Ontology,,unknown,[],19,18,5,13
 DOID:12978,Plasmodium vivax malaria,True,Human Disease Ontology,,unknown,[],36,17,11,8
 DOID:14069,cerebral malaria,True,Human Disease Ontology,,unknown,[],23,17,11,8
 DOID:3298,vaccinia,True,Human Disease Ontology,,unknown,[],69,16,16,8
@@ -173,7 +173,7 @@ DOID:1733,cryptosporidiosis,True,Human Disease Ontology,,unknown,[],27,16,6,11
 DOID:12683,vestibular neuronitis,True,Human Disease Ontology,,unknown,[],24,16,13,6
 DOID:3385,bacterial vaginosis,True,Human Disease Ontology,,unknown,[],22,16,10,7
 DOID:4962,pericardial tuberculosis,True,Human Disease Ontology,,unknown,[],21,16,9,8
-DOID:2149,urogenital tuberculosis,True,Human Disease Ontology,,unknown,[],19,16,3,13
+DOID:2149,urogenital tuberculosis,True,Human Disease Ontology,,unknown,[],17,16,3,13
 DOID:1562,chromoblastomycosis,True,Human Disease Ontology,True,tropical,[],42,15,10,11
 DOID:14374,norwegian scabies,True,Human Disease Ontology,,unknown,[],36,15,11,11
 DOID:2366,West Nile fever,True,Human Disease Ontology,,unknown,[],32,15,0,15
@@ -185,8 +185,8 @@ DOID:8970,subacute sclerosing panencephalitis,True,Human Disease Ontology,,unkno
 DOID:13078,eumycotic mycetoma,True,Human Disease Ontology,,unknown,[],40,14,9,10
 DOID:11079,leech infestation,True,Human Disease Ontology,,unknown,[],28,14,7,9
 DOID:0050268,ophthalmomyiasis,True,Human Disease Ontology,,unknown,[],24,14,2,14
-DOID:4156,primary syphilis,True,Human Disease Ontology,,unknown,[],22,14,11,4
 DOID:1082,dirofilariasis,True,Human Disease Ontology,,unknown,[],21,14,6,10
+DOID:4156,primary syphilis,True,Human Disease Ontology,,unknown,[],21,14,11,4
 DOID:4337,tinea capitis,True,Human Disease Ontology,,unknown,[],20,14,13,3
 DOID:9733,renal tuberculosis,True,Human Disease Ontology,,unknown,[],17,14,11,3
 DOID:4562,subacute bacterial endocarditis,True,Human Disease Ontology,,unknown,[],16,14,12,3
@@ -217,23 +217,23 @@ DOID:0080161,cutaneous candidiasis,True,Human Disease Ontology,,unknown,[],21,9,
 DOID:9699,ophthalmia neonatorum,True,Human Disease Ontology,,unknown,[],18,9,5,6
 DOID:13034,relapsing fever,True,Human Disease Ontology,,unknown,[],13,9,7,3
 DOID:0081012,critical COVID-19,True,Human Disease Ontology,,unknown,[],12,9,5,4
-DOID:12287,Crimean-Congo hemorrhagic fever,True,Human Disease Ontology,,unknown,[],12,9,4,6
 DOID:13074,tinea unguium,True,Human Disease Ontology,,unknown,[],12,9,8,2
 DOID:0070344,ocular tuberculosis,True,Human Disease Ontology,,unknown,[],10,9,3,7
 DOID:11285,tick paralysis,True,Human Disease Ontology,,unknown,[],10,9,4,5
 DOID:12385,shigellosis,True,Human Disease Ontology,,unknown,[],9,9,5,4
-DOID:402,oral tuberculosis,True,Human Disease Ontology,,unknown,[],9,9,2,7
 DOID:10699,paragonimiasis,True,Human Disease Ontology,,unknown,[],27,8,5,7
 DOID:7033,anisakiasis,True,Human Disease Ontology,,unknown,[],23,8,8,6
 DOID:0050153,pulmonary aspergilloma,True,Human Disease Ontology,,unknown,[],15,8,6,3
 DOID:11266,Hantavirus hemorrhagic fever with renal syndrome,True,Human Disease Ontology,,unknown,[],14,8,7,2
 DOID:12211,filarial elephantiasis,True,Human Disease Ontology,True,tropical,[],12,8,5,4
+DOID:12287,Crimean-Congo hemorrhagic fever,True,Human Disease Ontology,,unknown,[],11,8,4,5
 DOID:9909,hordeolum,True,Human Disease Ontology,,unknown,[],11,8,8,1
 DOID:1025,tuberculoid leprosy,True,Human Disease Ontology,,unknown,[],10,8,7,2
 DOID:0040083,Chlamydia pneumonia,True,Human Disease Ontology,,unknown,[],9,8,7,1
 DOID:11227,acute hemorrhagic conjunctivitis,True,Human Disease Ontology,,unknown,[],9,8,7,2
 DOID:8743,erythema infectiosum,True,Human Disease Ontology,,unknown,[],9,8,3,5
 DOID:11608,fungal meningitis,True,Human Disease Ontology,,unknown,[],8,8,5,3
+DOID:402,oral tuberculosis,True,Human Disease Ontology,,unknown,[],8,8,2,6
 DOID:0050481,endemic typhus,True,Human Disease Ontology,,unknown,[],25,7,6,4
 DOID:3055,paratyphoid fever,True,Human Disease Ontology,,unknown,[],25,7,6,2
 DOID:4271,microsporidiosis,True,Human Disease Ontology,,unknown,[],19,7,1,7
@@ -290,7 +290,6 @@ DOID:0050288,penicilliosis,True,Human Disease Ontology,,unknown,[],5,4,3,2
 DOID:13523,loiasis,True,Human Disease Ontology,,unknown,[],5,4,1,3
 DOID:0050135,subcutaneous mycosis,True,Human Disease Ontology,,unknown,[],4,4,2,2
 DOID:0050246,granulomatous amebic encephalitis,True,Human Disease Ontology,,unknown,[],4,4,2,2
-DOID:0080599,Coronavirus infectious disease,True,Human Disease Ontology,,unknown,[],4,4,0,4
 DOID:10755,petrositis,True,Human Disease Ontology,,unknown,[],4,4,3,1
 DOID:10843,Western equine encephalitis,True,Human Disease Ontology,,unknown,[],4,4,4,0
 DOID:10845,St. Louis encephalitis,True,Human Disease Ontology,,unknown,[],4,4,4,0
@@ -337,7 +336,6 @@ DOID:0050125,dengue shock syndrome,True,Human Disease Ontology,,unknown,[],2,2,2
 DOID:0070702,measles inclusion body encephalitis,True,Human Disease Ontology,,unknown,[],2,2,2,0
 DOID:10035,asymptomatic neurosyphilis,True,Human Disease Ontology,,unknown,[],2,2,2,0
 DOID:13147,fungal esophagitis,True,Human Disease Ontology,,unknown,[],2,2,2,0
-DOID:14456,Brucella melitensis brucellosis,True,Human Disease Ontology,,unknown,[],2,2,0,2
 DOID:2473,opportunistic mycosis,True,Human Disease Ontology,,unknown,[],2,2,2,0
 DOID:4327,Marburg hemorrhagic fever,True,Human Disease Ontology,,unknown,[],2,2,2,0
 DOID:7457,enterobiasis,True,Human Disease Ontology,,unknown,[],2,2,2,0
@@ -364,13 +362,11 @@ DOID:0050035,African tick-bite fever,True,Human Disease Ontology,,unknown,[],1,1
 DOID:0050043,Israeli tick typhus,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:0050150,Pontiac fever,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:0050201,nephropathia epidemica,True,Human Disease Ontology,,unknown,[],1,1,1,0
-DOID:0050204,Epstein-Barr virus hepatitis,True,Human Disease Ontology,,unknown,[],1,1,0,1
 DOID:0050266,tungiasis,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:0050383,typhoidal tularemia,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:0050456,Buruli ulcer disease,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:0050488,early congenital syphilis,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:0060570,cardiac tuberculosis,True,Human Disease Ontology,,unknown,[],1,1,0,1
-DOID:0061237,aggressive periodontitis 1,True,Human Disease Ontology,,unknown,[],1,1,0,1
 DOID:0090103,Huntington's disease-like 1,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:10773,bubonic plague,True,Human Disease Ontology,,unknown,[],1,1,1,0
 DOID:11302,cercarial dermatitis,True,Human Disease Ontology,,unknown,[],1,1,1,0

@@ -1,6 +1,24 @@
-import requests
+from pathlib import Path
 
-URL = "https://zenodo.org/api/records/20416562"
+import requests
+import yaml
+
+
+with Path(
+    "configs/source.yaml"
+).open(
+    "r",
+    encoding="utf-8",
+) as f:
+
+    config = yaml.safe_load(f)
+
+
+URL = config[
+    "zenodo"
+][
+    "api_url"
+]
 
 response = requests.get(URL, timeout=60)
 response.raise_for_status()
